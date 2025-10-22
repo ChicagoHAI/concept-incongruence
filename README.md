@@ -1,5 +1,5 @@
 # Concept Incongruence: An Exploration of Time and Death in Role Playing
-This is the homepage of the paper [**Concept Incongruence: An Exploration of Time and Death in Role Playing**]{https://arxiv.org/abs/2505.14905}
+This is the homepage of the paper [**Concept Incongruence: An Exploration of Time and Death in Role Playing**](https://arxiv.org/abs/2505.14905)
 
 Consider this prompt "Draw a unicorn with two horns". Should large language models (LLMs) recognize that a unicorn has only one horn by definition and ask users for clarifications, or proceed to generate something anyway? 
 We introduce *concept incongruence* to capture such phenomena where concept boundaries clash with each other, either in user prompts or in model representations, often leading to under-specified or mis-specified behaviors.
