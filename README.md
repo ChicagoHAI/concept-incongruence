@@ -21,7 +21,12 @@ pip install -r requirements.txt
 
 ## File Structure
 ```
-Persona_Understanding
+├── answers
+├── dataset
+├── evaluation
+├── plot
+├── probe (role-play probe implementation)
+├── world_model (temporal probe implementation)
 ├── src
 │   ├── generation
 │   │   ├── generate.py
@@ -46,8 +51,8 @@ Persona_Understanding
 
 ## Implimentation
 - `generate_*.sh` is the main script for generation to role-play answers. Output to `answers/{model}/{type}` folder as a json file.
-- `eval_abstain_answer.sh` is the main script for evaluating abstain and answer. Output to `evaluation/{model}/{type}/{question_type}/{type}_abstain_answer.json` folder as a json file. !! You will need to manually delete a ',' in the end of the file.
-- `eval_acc.sh` is the main script for evaluating accuracy. Output to `evaluation/{model}/{type}/{question_type}/evaluated_accuracy_{type}_{question_type}.json` folder as a json file. !! You will need to manually delete a ',' in the end of the file so that the next steps can run.
+- `eval_abstain_answer.sh` is the main script for evaluating abstain and answer. Output to `evaluation/{model}/{type}/{question_type}/{type}_abstain_answer.json` folder as a json file. 
+- `eval_acc.sh` is the main script for evaluating accuracy. Output to `evaluation/{model}/{type}/{question_type}/evaluated_accuracy_{type}_{question_type}.json` folder as a json file. 
 - `extract.sh` is the main script for changing the LLM evaluation to labels. Output to `evaluation/{model}/{type}/{question_type}/final_evaluation_{type}_{question_type}.json` folder as a json file. 
 - `stat.sh` is the main script for stat the labels. Output to `evaluation/{model}/{type}/{question_type}/stat_{type}_{question_type}.txt` folder as a txt file. 
 - `bar_plot.sh` is the main script for bar plot. It will output a plot in  `plot` folder and output a bar chart. 
