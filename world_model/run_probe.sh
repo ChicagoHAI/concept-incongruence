@@ -1,0 +1,1 @@
+python probe_experiment.py --experiment_name presidential --model meta-llama/Llama-3.1-8B-Instruct --entity_type presidential --feature_name presidential --prompt_name president_normal  --output_type presidential_normal
