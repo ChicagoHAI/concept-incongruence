@@ -1,0 +1,1340 @@
+[
+    {
+        "name": "Abraham Lincoln",
+        "death_year": "1865",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Agatha Christie",
+        "death_year": "1976",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Albert Camus",
+        "death_year": "1960",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Albert Einstein",
+        "death_year": "1955",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Alexander Graham Bell",
+        "death_year": "1922",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Amelia Earhart",
+        "death_year": "1937",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Andy Kaufman",
+        "death_year": "1984",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Antonio Vivaldi",
+        "death_year": "1741",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Audrey Hepburn",
+        "death_year": "1993",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Ava Gardner",
+        "death_year": "1990",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Babe Ruth",
+        "death_year": "1948",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Barbara Stanwyck",
+        "death_year": "1990",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Beethoven (Ludwig van)",
+        "death_year": "1827",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Benny Hill",
+        "death_year": "1992",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Billie Holiday",
+        "death_year": "1959",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Bob Marley",
+        "death_year": "1981",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Bon Scott",
+        "death_year": "1980",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Boris Karloff",
+        "death_year": "1969",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Buster Keaton",
+        "death_year": "1966",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "B\u00e9la Bart\u00f3k",
+        "death_year": "1945",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Carl Sagan",
+        "death_year": "1996",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Carl Jung",
+        "death_year": "1961",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Cary Grant",
+        "death_year": "1986",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Charlie Chaplin",
+        "death_year": "1977",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Charlie Parker",
+        "death_year": "1955",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Chris Farley",
+        "death_year": "1997",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Clark Gable",
+        "death_year": "1960",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Claude Debussy",
+        "death_year": "1918",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Claude Monet",
+        "death_year": "1926",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Claudette Colbert",
+        "death_year": "1996",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Dal\u00ed (Salvador Dal\u00ed)",
+        "death_year": "1989",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Dean Martin",
+        "death_year": "1995",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Desi Arnaz",
+        "death_year": "1986",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Diana, Princess of Wales",
+        "death_year": "1997",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Dick Shawn",
+        "death_year": "1987",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Dizzy Gillespie",
+        "death_year": "1993",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Dorothy Dandridge",
+        "death_year": "1965",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Duke Ellington",
+        "death_year": "1974",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Dwight D. Eisenhower",
+        "death_year": "1969",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Edgar Degas",
+        "death_year": "1917",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Edith Piaf",
+        "death_year": "1963",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Elvis Presley",
+        "death_year": "1977",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Enzo Ferrari",
+        "death_year": "1988",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Ernest Hemingway",
+        "death_year": "1961",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Ezra Pound",
+        "death_year": "1972",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "F. Scott Fitzgerald",
+        "death_year": "1940",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Federico Fellini",
+        "death_year": "1993",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Fidel Castro",
+        "death_year": "2016",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Florence Nightingale",
+        "death_year": "1910",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Frank Sinatra",
+        "death_year": "1998",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Freddie Mercury",
+        "death_year": "1991",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Frida Kahlo",
+        "death_year": "1954",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Fyodor Dostoevsky",
+        "death_year": "1881",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Gene Kelly",
+        "death_year": "1996",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Gene Siskel",
+        "death_year": "1999",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Gilda Radner",
+        "death_year": "1989",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Ginger Rogers",
+        "death_year": "1995",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Giuseppe Verdi",
+        "death_year": "1901",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Grace Kelly",
+        "death_year": "1982",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Graham Chapman",
+        "death_year": "1989",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Greta Garbo",
+        "death_year": "1990",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Groucho Marx",
+        "death_year": "1977",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Harold Lloyd",
+        "death_year": "1971",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Harrison (George Harrison)",
+        "death_year": "2001",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Hedy Lamarr",
+        "death_year": "2000",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Helen Keller",
+        "death_year": "1968",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Henry Fonda",
+        "death_year": "1982",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Humphrey Bogart",
+        "death_year": "1957",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Ian Fleming",
+        "death_year": "1964",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Igor Stravinsky",
+        "death_year": "1971",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Ingmar Bergman",
+        "death_year": "2007",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Ingrid Bergman",
+        "death_year": "1982",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "James Brown",
+        "death_year": "2006",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "James Dean",
+        "death_year": "1955",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Janis Joplin",
+        "death_year": "1970",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Jean-Michel Basquiat",
+        "death_year": "1988",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Jean-Paul Sartre",
+        "death_year": "1980",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Jerry Garcia",
+        "death_year": "1995",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Jim Henson",
+        "death_year": "1990",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Jim Morrison",
+        "death_year": "1971",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Jimmy Stewart",
+        "death_year": "1997",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Joan Crawford",
+        "death_year": "1977",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "John Belushi",
+        "death_year": "1982",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "John Candy",
+        "death_year": "1994",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "John Coltrane",
+        "death_year": "1967",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "John F. Kennedy",
+        "death_year": "1963",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "John Lennon",
+        "death_year": "1980",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "John Wayne",
+        "death_year": "1979",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Judy Garland",
+        "death_year": "1969",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Kurt Cobain",
+        "death_year": "1994",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Lauren Bacall",
+        "death_year": "2014",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Laurence Olivier",
+        "death_year": "1989",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Lee Strasberg",
+        "death_year": "1982",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Lenny Bruce",
+        "death_year": "1966",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Leonardo da Vinci",
+        "death_year": "1519",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Lou Costello",
+        "death_year": "1959",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Louis Armstrong",
+        "death_year": "1971",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Lucille Ball",
+        "death_year": "1989",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Luther Vandross",
+        "death_year": "2005",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Mahatma Gandhi",
+        "death_year": "1948",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Malcolm X",
+        "death_year": "1965",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Manuel Fangio (Juan Manuel Fangio)",
+        "death_year": "1995",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Marilyn Monroe",
+        "death_year": "1962",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Mark Twain",
+        "death_year": "1910",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Marlene Dietrich",
+        "death_year": "1992",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Martin Luther King Jr.",
+        "death_year": "1968",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Marvin Gaye",
+        "death_year": "1984",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Marylin Miller",
+        "death_year": "1936",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Max Planck",
+        "death_year": "1947",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Medgar Evers",
+        "death_year": "1963",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Michael Landon",
+        "death_year": "1991",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Michael Hutchence",
+        "death_year": "1997",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Mikhail Gorbachev",
+        "death_year": "2022",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Miles Davis",
+        "death_year": "1991",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Mother Teresa",
+        "death_year": "1997",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Nat King Cole",
+        "death_year": "1965",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Nicola Tesla",
+        "death_year": "1943",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Nico (Christa P\u00e4ffgen)",
+        "death_year": "1988",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Nikola Tesla",
+        "death_year": "1943",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Notorious B.I.G. (Christopher Wallace)",
+        "death_year": "1997",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Oliver Hardy",
+        "death_year": "1957",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Orson Welles",
+        "death_year": "1985",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Oscar Wilde",
+        "death_year": "1900",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Otis Redding",
+        "death_year": "1967",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Pablo Neruda",
+        "death_year": "1973",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Pablo Picasso",
+        "death_year": "1973",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Phil Hartman",
+        "death_year": "1998",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Princess Grace (Grace Kelly)",
+        "death_year": "1982",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Pyotr Ilyich Tchaikovsky",
+        "death_year": "1893",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Redd Foxx",
+        "death_year": "1991",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Richard Feynman",
+        "death_year": "1988",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Rita Hayworth",
+        "death_year": "1987",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "River Phoenix",
+        "death_year": "1993",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Roberto Clemente",
+        "death_year": "1972",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Rod Serling",
+        "death_year": "1975",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Roger Miller",
+        "death_year": "1992",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Roman Polanski\u2019s wife Sharon Tate",
+        "death_year": "1969",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Roy Orbison",
+        "death_year": "1988",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Rudolf Nureyev",
+        "death_year": "1993",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Sam Cooke",
+        "death_year": "1964",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Sam Kinison",
+        "death_year": "1992",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Sarah Vaughan",
+        "death_year": "1990",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Satyajit Ray",
+        "death_year": "1992",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Sergei Rachmaninoff",
+        "death_year": "1943",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Sharon Tate",
+        "death_year": "1969",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Sigmund Freud",
+        "death_year": "1939",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Spencer Tracy",
+        "death_year": "1967",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Stan Laurel",
+        "death_year": "1965",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Stanley Kubrick",
+        "death_year": "1999",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Steve McQueen (actor)",
+        "death_year": "1980",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Tammi Terrell",
+        "death_year": "1970",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Terry Pratchett",
+        "death_year": "2015",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Thomas Edison",
+        "death_year": "1931",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Tim Bergling (Avicii)",
+        "death_year": "2018",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Tupac Shakur",
+        "death_year": "1996",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Umm Kulthum",
+        "death_year": "1975",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Vivien Leigh",
+        "death_year": "1967",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Voltaire (Fran\u00e7ois-Marie Arouet)",
+        "death_year": "1778",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "W.C. Fields",
+        "death_year": "1946",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Walt Disney",
+        "death_year": "1966",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Walter Payton",
+        "death_year": "1999",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Waylon Jennings",
+        "death_year": "2002",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Wilbur Wright",
+        "death_year": "1912",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Winston Churchill",
+        "death_year": "1965",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Wolfgang Amadeus Mozart",
+        "death_year": "1791",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Yves Saint Laurent",
+        "death_year": "2008",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Zeppo Marx",
+        "death_year": "1979",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Zora Neale Hurston",
+        "death_year": "1960",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "\u00c9dith Piaf",
+        "death_year": "1963",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "\u00c9mile Zola",
+        "death_year": "1902",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Prince Andrei Bolkonsky",
+        "death_year": "1812",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Fantine",
+        "death_year": "1832",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "\u00c9ponine",
+        "death_year": "1832",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Gavroche",
+        "death_year": "1832",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Javert",
+        "death_year": "1832",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Jay Gatsby",
+        "death_year": "1922",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Myrtle Wilson",
+        "death_year": "1922",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Lennie Small",
+        "death_year": "1947",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Paul B\u00e4umer",
+        "death_year": "1918",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Leslie Burke",
+        "death_year": "1977",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Eddard \"Ned\" Stark",
+        "death_year": "298",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Robb Stark",
+        "death_year": "298",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Tywin Lannister",
+        "death_year": "298",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Joffrey Baratheon",
+        "death_year": "298",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "James Potter",
+        "death_year": "1981",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Lily Potter",
+        "death_year": "1981",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Sirius Black",
+        "death_year": "1996",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Albus Dumbledore",
+        "death_year": "1997",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Cedric Diggory",
+        "death_year": "1995",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Severus Snape",
+        "death_year": "1998",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Remus Lupin",
+        "death_year": "1998",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Nymphadora Tonks",
+        "death_year": "1998",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Fred Weasley",
+        "death_year": "2020",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Padm\u00e9 Amidala",
+        "death_year": "19",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Ariana Dumbledore",
+        "death_year": "1997",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Bellatrix Lestrange",
+        "death_year": "1998",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Peter Pettigrew",
+        "death_year": "1998",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Gellert Grindelwald",
+        "death_year": "1998",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Melanie Hamilton Wilkes",
+        "death_year": "1873",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Johnny Cade",
+        "death_year": "1965",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Jim Conklin",
+        "death_year": "1863",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Quincey Morris",
+        "death_year": "1890",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Cory Dollanganger",
+        "death_year": "1980",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Maes Hughes",
+        "death_year": "2010",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Jonathan Joestar",
+        "death_year": "1889",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Father Damien Karras",
+        "death_year": "1973",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Jack Torrance",
+        "death_year": "1980",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Gage Creed",
+        "death_year": "1983",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Carrie White",
+        "death_year": "1976",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Georgie Denbrough",
+        "death_year": "1985",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Annie Wilkes",
+        "death_year": "1990",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Marion Crane",
+        "death_year": "1960",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Casey Becker",
+        "death_year": "1996",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Tony Montana",
+        "death_year": "1983",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Sonny Corleone",
+        "death_year": "1972",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Fredo Corleone",
+        "death_year": "1979",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Sgt. Elias Grodin",
+        "death_year": "1968",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Jack Dawson",
+        "death_year": "1912",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Edward Blake (The Comedian)",
+        "death_year": "1985",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Laura Palmer",
+        "death_year": "1989",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Carl Showalter",
+        "death_year": "2001",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "John Coffey",
+        "death_year": "1999",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Rudy Steiner",
+        "death_year": "1943",
+        "isDead": 1,
+        "label": 1
+    }
+]

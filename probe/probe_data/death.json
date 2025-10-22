@@ -1,0 +1,3708 @@
+[
+    {
+        "name": "Abraham Lincoln",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Agatha Christie",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Albert Camus",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Albert Einstein",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Alexander Graham Bell",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Amelia Earhart",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Andy Kaufman",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Antonio Vivaldi",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Audrey Hepburn",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Ava Gardner",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Babe Ruth",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Barbara Stanwyck",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Beethoven (Ludwig van)",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Benny Hill",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Billie Holiday",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Bob Marley",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Bon Scott",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Boris Karloff",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Buster Keaton",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "B\u00e9la Bart\u00f3k",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Carl Sagan",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Carl Jung",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Cary Grant",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Charlie Chaplin",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Charlie Parker",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Chris Farley",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Clark Gable",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Claude Debussy",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Claude Monet",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Claudette Colbert",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Dal\u00ed (Salvador Dal\u00ed)",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Dean Martin",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Desi Arnaz",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Diana, Princess of Wales",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Dick Shawn",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Dizzy Gillespie",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Dorothy Dandridge",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Duke Ellington",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Dwight D. Eisenhower",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Edgar Degas",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Edith Piaf",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Elvis Presley",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Enzo Ferrari",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Ernest Hemingway",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Ezra Pound",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "F. Scott Fitzgerald",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Federico Fellini",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Fidel Castro",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Florence Nightingale",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Frank Sinatra",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Freddie Mercury",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Frida Kahlo",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Fyodor Dostoevsky",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Gene Kelly",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Gene Siskel",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Gilda Radner",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Ginger Rogers",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Giuseppe Verdi",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Grace Kelly",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Graham Chapman",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Greta Garbo",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Groucho Marx",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Harold Lloyd",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Harrison (George Harrison)",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Hedy Lamarr",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Helen Keller",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Henry Fonda",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Humphrey Bogart",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Ian Fleming",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Igor Stravinsky",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Ingmar Bergman",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Ingrid Bergman",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "James Brown",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "James Dean",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Janis Joplin",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Jean-Michel Basquiat",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Jean-Paul Sartre",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Jerry Garcia",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Jim Henson",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Jim Morrison",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Jimmy Stewart",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Joan Crawford",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "John Belushi",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "John Candy",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "John Coltrane",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "John F. Kennedy",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "John Lennon",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "John Wayne",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Judy Garland",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Kurt Cobain",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Lauren Bacall",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Laurence Olivier",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Lee Strasberg",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Lenny Bruce",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Leonardo da Vinci",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Lou Costello",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Louis Armstrong",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Lucille Ball",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Luther Vandross",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Mahatma Gandhi",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Malcolm X",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Manuel Fangio (Juan Manuel Fangio)",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Marilyn Monroe",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Mark Twain",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Marlene Dietrich",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Martin Luther King Jr.",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Marvin Gaye",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Marylin Miller",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Max Planck",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Medgar Evers",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Michael Landon",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Michael Hutchence",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Mikhail Gorbachev",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Miles Davis",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Mother Teresa",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Nat King Cole",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Nicola Tesla",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Nico (Christa P\u00e4ffgen)",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Nikola Tesla",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Notorious B.I.G. (Christopher Wallace)",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Oliver Hardy",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Orson Welles",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Oscar Wilde",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Otis Redding",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Pablo Neruda",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Pablo Picasso",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Phil Hartman",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Princess Grace (Grace Kelly)",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Pyotr Ilyich Tchaikovsky",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Redd Foxx",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Richard Feynman",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Rita Hayworth",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "River Phoenix",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Roberto Clemente",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Rod Serling",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Roger Miller",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Roman Polanski\u2019s wife Sharon Tate",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Roy Orbison",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Rudolf Nureyev",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Sam Cooke",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Sam Kinison",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Sarah Vaughan",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Satyajit Ray",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Sergei Rachmaninoff",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Sharon Tate",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Sigmund Freud",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Spencer Tracy",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Stan Laurel",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Stanley Kubrick",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Steve McQueen (actor)",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Tammi Terrell",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Terry Pratchett",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Thomas Edison",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Tim Bergling (Avicii)",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Tupac Shakur",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Umm Kulthum",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Vivien Leigh",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Voltaire (Fran\u00e7ois-Marie Arouet)",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "W.C. Fields",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Walt Disney",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Walter Payton",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Waylon Jennings",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Wilbur Wright",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Winston Churchill",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Wolfgang Amadeus Mozart",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Yves Saint Laurent",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Zeppo Marx",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Zora Neale Hurston",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "\u00c9dith Piaf",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "\u00c9mile Zola",
+        "label": 0,
+        "isDead": 1
+    },
+    {
+        "name": "Romeo Montague",
+        "source": "Romeo and Juliet",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Juliet Capulet",
+        "source": "Romeo and Juliet",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Mercutio",
+        "source": "Romeo and Juliet",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Tybalt",
+        "source": "Romeo and Juliet",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Paris",
+        "source": "Romeo and Juliet",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Cleopatra",
+        "source": "Antony and Cleopatra (Shakespeare)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Mark Antony",
+        "source": "Antony and Cleopatra (Shakespeare)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Othello",
+        "source": "Othello (Shakespeare)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Desdemona",
+        "source": "Othello (Shakespeare)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "King Lear",
+        "source": "King Lear (Shakespeare)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Macbeth",
+        "source": "Macbeth (Shakespeare)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Lady Macbeth",
+        "source": "Macbeth (Shakespeare)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Banquo",
+        "source": "Macbeth (Shakespeare)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Hamlet",
+        "source": "Hamlet (Shakespeare)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Polonius",
+        "source": "Hamlet (Shakespeare)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Ophelia",
+        "source": "Hamlet (Shakespeare)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Claudius",
+        "source": "Hamlet (Shakespeare)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Goneril",
+        "source": "King Lear (Shakespeare)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Regan",
+        "source": "King Lear (Shakespeare)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Cordelia",
+        "source": "King Lear (Shakespeare)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Oedipus",
+        "source": "Sophocles' Theban plays",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Jocasta",
+        "source": "Sophocles' Theban plays",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Antigone",
+        "source": "Sophocles' Theban plays",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Eteocles",
+        "source": "Sophocles' Theban plays",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Polynices",
+        "source": "Sophocles' Theban plays",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Agamemnon",
+        "source": "Aeschylus' Oresteia",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Clytemnestra",
+        "source": "Aeschylus' Oresteia",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Aegisthus",
+        "source": "Aeschylus' Oresteia",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Iphigenia",
+        "source": "Various Greek myths",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Achilles",
+        "source": "Homer's Iliad",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Hector",
+        "source": "Homer's Iliad",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Patroclus",
+        "source": "Homer's Iliad",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Ajax",
+        "source": "Homeric epics",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "King Priam",
+        "source": "Trojan War myths",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Cassandra",
+        "source": "Trojan War myths",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Hippolytus",
+        "source": "Euripides' Hippolytus",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Phaedra",
+        "source": "Euripides' Hippolytus",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Glauce",
+        "source": "Euripides' Medea",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Polyxena",
+        "source": "Trojan War myths",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Sarpedon",
+        "source": "Homer's Iliad",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Penthesilea",
+        "source": "Trojan War myths",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Beowulf",
+        "source": "Old English epic Beowulf",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Grendel",
+        "source": "Old English epic Beowulf",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Grendel's Mother",
+        "source": "Old English epic Beowulf",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Roland",
+        "source": "The Song of Roland",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "King Arthur",
+        "source": "Arthurian legends",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Lancelot",
+        "source": "Arthurian legends",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Guinevere",
+        "source": "Arthurian legends",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Mordred",
+        "source": "Arthurian legends",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Tristan",
+        "source": "Tristan and Isolde",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Isolde",
+        "source": "Tristan and Isolde",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Gawain",
+        "source": "Arthurian legends",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Siegfried",
+        "source": "Nibelungenlied",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Kriemhild",
+        "source": "Nibelungenlied",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Hagen",
+        "source": "Nibelungenlied",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Sigurd",
+        "source": "Volsunga Saga",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Brynhild",
+        "source": "Volsunga Saga",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Don Quixote",
+        "source": "Don Quixote by Cervantes",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Erik (Phantom of the Opera)",
+        "source": "Gaston Leroux's The Phantom of the Opera",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Katerina Ivanovna",
+        "source": "Crime and Punishment (Dostoevsky)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Prince Andrei Bolkonsky",
+        "source": "War and Peace (Tolstoy)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Helene Kuragina",
+        "source": "War and Peace (Tolstoy)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Lise Bolkonskaya",
+        "source": "War and Peace (Tolstoy)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Anna Karenina",
+        "source": "Anna Karenina (Tolstoy)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Fantine",
+        "source": "Les Mis\u00e9rables (Hugo)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "\u00c9ponine",
+        "source": "Les Mis\u00e9rables (Hugo)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Gavroche",
+        "source": "Les Mis\u00e9rables (Hugo)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Jean Valjean",
+        "source": "Les Mis\u00e9rables (Hugo)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Javert",
+        "source": "Les Mis\u00e9rables (Hugo)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Captain Ahab",
+        "source": "Moby-Dick (Melville)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Sydney Carton",
+        "source": "A Tale of Two Cities (Dickens)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Madame Defarge",
+        "source": "A Tale of Two Cities (Dickens)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Jay Gatsby",
+        "source": "The Great Gatsby (Fitzgerald)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Myrtle Wilson",
+        "source": "The Great Gatsby (Fitzgerald)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Lennie Small",
+        "source": "Of Mice and Men (Steinbeck)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Snowden",
+        "source": "Catch-22 (Heller)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Paul B\u00e4umer",
+        "source": "All Quiet on the Western Front (Remarque)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Robert Jordan",
+        "source": "For Whom the Bell Tolls (Hemingway)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Leslie Burke",
+        "source": "Bridge to Terabithia (Paterson)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Boromir",
+        "source": "The Lord of the Rings (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "F\u00ebanor",
+        "source": "The Silmarillion (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Fingolfin",
+        "source": "The Silmarillion (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Finw\u00eb",
+        "source": "The Silmarillion (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Maedhros",
+        "source": "The Silmarillion (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Fingon",
+        "source": "The Silmarillion (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Turgon",
+        "source": "The Silmarillion (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "L\u00fathien",
+        "source": "The Silmarillion (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Beren",
+        "source": "The Silmarillion (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "H\u00farin",
+        "source": "The Silmarillion (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "T\u00farin Turambar",
+        "source": "The Silmarillion (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Eddard \"Ned\" Stark",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Robb Stark",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Catelyn Stark",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Khal Drogo",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Tywin Lannister",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Oberyn Martell",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Stannis Baratheon",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Renly Baratheon",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Joffrey Baratheon",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Theon Greyjoy",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "James Potter",
+        "source": "Harry Potter series",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Lily Potter",
+        "source": "Harry Potter series",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Sirius Black",
+        "source": "Harry Potter series",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Albus Dumbledore",
+        "source": "Harry Potter series",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Cedric Diggory",
+        "source": "Harry Potter series",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Severus Snape",
+        "source": "Harry Potter series",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Remus Lupin",
+        "source": "Harry Potter series",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Nymphadora Tonks",
+        "source": "Harry Potter series",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Fred Weasley",
+        "source": "Harry Potter series",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Colin Creevey",
+        "source": "Harry Potter series",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Obi-Wan Kenobi",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Anakin Skywalker (Darth Vader)",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Padm\u00e9 Amidala",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Darth Maul",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Qui-Gon Jinn",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Mace Windu",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Count Dooku",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Luke Skywalker",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Yoda",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Jango Fett",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Bill Sikes",
+        "source": "Oliver Twist (Dickens)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Nancy",
+        "source": "Oliver Twist (Dickens)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Dora Spenlow",
+        "source": "David Copperfield (Dickens)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Beth March",
+        "source": "Little Women (Alcott)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Abb\u00e9 Faria",
+        "source": "The Count of Monte Cristo (Dumas)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Catherine Earnshaw",
+        "source": "Wuthering Heights (Emily Bront\u00eb)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Heathcliff",
+        "source": "Wuthering Heights (Emily Bront\u00eb)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Helen Burns",
+        "source": "Jane Eyre (Charlotte Bront\u00eb)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Lucy Westenra",
+        "source": "Dracula (Bram Stoker)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "King Kong",
+        "source": "King Kong (1933 film)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Professor Moriarty",
+        "source": "Sherlock Holmes (Doyle)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Mary Morstan (Watson)",
+        "source": "Sherlock Holmes (Doyle)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Captain Hook",
+        "source": "Peter Pan (J. M. Barrie)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Billy Bones",
+        "source": "Treasure Island (R. L. Stevenson)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Quasimodo",
+        "source": "The Hunchback of Notre-Dame (Hugo)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Esmeralda",
+        "source": "The Hunchback of Notre-Dame (Hugo)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "John the Savage",
+        "source": "Brave New World (Huxley)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Robin Hood",
+        "source": "English folklore",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Brian de Bois-Guilbert",
+        "source": "Ivanhoe (Walter Scott)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Bartleby",
+        "source": "Bartleby, the Scrivener (Melville)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Jadis (The White Witch)",
+        "source": "The Chronicles of Narnia (C. S. Lewis)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "King Miraz",
+        "source": "Prince Caspian (C. S. Lewis)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Saruman",
+        "source": "The Lord of the Rings (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "The Witch-king of Angmar",
+        "source": "The Lord of the Rings (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Denethor",
+        "source": "The Lord of the Rings (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "King Th\u00e9oden",
+        "source": "The Lord of the Rings (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Thorin Oakenshield",
+        "source": "The Hobbit (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Fili",
+        "source": "The Hobbit (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Kili",
+        "source": "The Hobbit (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Smaug",
+        "source": "The Hobbit (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Gollum (Sm\u00e9agol)",
+        "source": "The Lord of the Rings (Tolkien)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Elendil",
+        "source": "The Silmarillion / LotR Appendices",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Balon Greyjoy",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Margaery Tyrell",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Loras Tyrell",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Tommen Baratheon",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Walder Frey",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Ramsay Bolton",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Rickon Stark",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Hodor",
+        "source": "A Song of Ice and Fire (Martin)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Ariana Dumbledore",
+        "source": "Harry Potter series",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Nicolas Flamel",
+        "source": "Harry Potter series",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Barty Crouch Sr.",
+        "source": "Harry Potter series",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Vincent Crabbe",
+        "source": "Harry Potter series",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Bellatrix Lestrange",
+        "source": "Harry Potter series",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Peter Pettigrew",
+        "source": "Harry Potter series",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Gellert Grindelwald",
+        "source": "Harry Potter series",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Rowena Ravenclaw",
+        "source": "Harry Potter world",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Helga Hufflepuff",
+        "source": "Harry Potter world",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Godric Gryffindor",
+        "source": "Harry Potter world",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Melanie Hamilton Wilkes",
+        "source": "Gone with the Wind (Mitchell)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Algernon (the mouse)",
+        "source": "Flowers for Algernon (Keyes)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Granma Joad",
+        "source": "The Grapes of Wrath (Steinbeck)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Johnny Cade",
+        "source": "The Outsiders (S. E. Hinton)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Dallas Winston",
+        "source": "The Outsiders (S. E. Hinton)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Vergible \"Tea Cake\" Woods",
+        "source": "Their Eyes Were Watching God (Hurston)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Father Ralph de Bricassart",
+        "source": "The Thorn Birds (McCullough)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "King Haggard",
+        "source": "The Last Unicorn (Beagle)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Abdul Alhazred",
+        "source": "Cthulhu Mythos (Lovecraft)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Jim Conklin",
+        "source": "The Red Badge of Courage (Crane)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Quincey Morris",
+        "source": "Dracula (Bram Stoker)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Dido",
+        "source": "Virgil's Aeneid",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Doctor Faustus",
+        "source": "Marlowe's Doctor Faustus",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Dorian Gray",
+        "source": "The Picture of Dorian Gray (Oscar Wilde)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Queequeg",
+        "source": "Moby-Dick (Melville)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "George Osborne",
+        "source": "Vanity Fair (Thackeray)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Bonnie Blue Butler",
+        "source": "Gone with the Wind (Mitchell)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Aron Trask",
+        "source": "East of Eden (Steinbeck)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Cory Dollanganger",
+        "source": "Flowers in the Attic (V. C. Andrews)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Judeau",
+        "source": "Berserk (Miura)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Pippin (Band of the Hawk)",
+        "source": "Berserk (Miura)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Maes Hughes",
+        "source": "Fullmetal Alchemist (Arakawa)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Kiky\u014d",
+        "source": "InuYasha (Takahashi)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Tomoe Yukishiro",
+        "source": "Rurouni Kenshin (Watsuki)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Jonathan Joestar",
+        "source": "JoJo's Bizarre Adventure: Part 1",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Emma Bovary",
+        "source": "Madame Bovary (Flaubert)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Kurtz",
+        "source": "Heart of Darkness (Conrad)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Humbert Humbert",
+        "source": "Lolita (Nabokov)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Father Damien Karras",
+        "source": "The Exorcist (Blatty)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Jack Torrance",
+        "source": "The Shining (Stephen King)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Gage Creed",
+        "source": "Pet Sematary (Stephen King)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Susan Norton",
+        "source": "'Salem's Lot (Stephen King)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Carrie White",
+        "source": "Carrie (Stephen King)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Georgie Denbrough",
+        "source": "IT (Stephen King)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Annie Wilkes",
+        "source": "Misery (Stephen King)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Billy Bibbit",
+        "source": "One Flew Over the Cuckoo's Nest (Kesey)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Quint",
+        "source": "Jaws (Benchley)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Marion Crane",
+        "source": "Psycho (Bloch)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Angel Eyes",
+        "source": "The Good, the Bad and the Ugly (1966 film)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Casey Becker",
+        "source": "Scream (1996 film)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Jame Gumb (Buffalo Bill)",
+        "source": "The Silence of the Lambs (Thomas Harris)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Tony Montana",
+        "source": "Scarface (1983 film)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Sonny Corleone",
+        "source": "The Godfather (Puzo)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Fredo Corleone",
+        "source": "The Godfather (Puzo)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Colonel Kurtz",
+        "source": "Apocalypse Now (1979 film)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Sgt. Elias Grodin",
+        "source": "Platoon (1986 film)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Private Mellish",
+        "source": "Saving Private Ryan (1998 film)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Jack Dawson",
+        "source": "Titanic (1997 film)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Thomas Wayne",
+        "source": "Batman/DC Comics",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Martha Wayne",
+        "source": "Batman/DC Comics",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Uncle Ben (Ben Parker)",
+        "source": "Spider-Man/Marvel Comics",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Jonathan Kent (Pa Kent)",
+        "source": "Superman/DC Comics",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Jean Grey",
+        "source": "X-Men/Marvel Comics (original storyline)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Edward Blake (The Comedian)",
+        "source": "Watchmen (Alan Moore)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "V",
+        "source": "V for Vendetta (Alan Moore)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Kyle Reese",
+        "source": "The Terminator (1984 film)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Laura Palmer",
+        "source": "Twin Peaks (Mark Frost & David Lynch)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Carl Showalter",
+        "source": "Fargo (1996 film)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Queen Calanthe",
+        "source": "The Witcher (Sapkowski)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Pavetta",
+        "source": "The Witcher (Sapkowski)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "King Caspian X",
+        "source": "The Chronicles of Narnia (C. S. Lewis)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Ysgramor",
+        "source": "The Elder Scrolls lore",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Vilgefortz",
+        "source": "The Witcher (Sapkowski)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "B\u00ealit",
+        "source": "Conan the Barbarian (Robert E. Howard)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "John Coffey",
+        "source": "The Green Mile (Stephen King)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Bruno",
+        "source": "The Boy in the Striped Pajamas (Boyne)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Winnie Foster",
+        "source": "Tuck Everlasting (Babbitt)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Rudy Steiner",
+        "source": "The Book Thief (Zusak)",
+        "label": 1,
+        "isDead": 1
+    },
+    {
+        "name": "Harry Potter",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Hermione Granger",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ron Weasley",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Albus Dumbledore",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Severus Snape",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Rubeus Hagrid",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Draco Malfoy",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Minerva McGonagall",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Luna Lovegood",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Neville Longbottom",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Frodo Baggins",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Samwise Gamgee",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Aragorn",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Legolas",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gimli",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gandalf",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Boromir",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Galadriel",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Elrond",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Arwen",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Aslan",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Peter Pevensie",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Susan Pevensie",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Edmund Pevensie",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Lucy Pevensie",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Prince Caspian",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Eustace Scrubb",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jill Pole",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mr. Tumnus",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jadis the White Witch",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Luke Skywalker",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Leia Organa",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Han Solo",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Darth Vader",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Obi-Wan Kenobi",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Yoda",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Chewbacca",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Palpatine",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Padm\u00e9 Amidala",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ahsoka Tano",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "James T. Kirk",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Spock",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Leonard McCoy",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Nyota Uhura",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Montgomery Scott",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Hikaru Sulu",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jean-Luc Picard",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "William Riker",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Data",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Worf",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tony Stark (Iron Man)",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Steve Rogers (Captain America)",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Thor Odinson",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Bruce Banner (Hulk)",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Natasha Romanoff (Black Widow)",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Clint Barton (Hawkeye)",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Peter Parker (Spider-Man)",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Wanda Maximoff (Scarlet Witch)",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Vision",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "T'Challa (Black Panther)",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Bruce Wayne (Batman)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Clark Kent (Superman)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Diana Prince (Wonder Woman)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Barry Allen (The Flash)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Hal Jordan (Green Lantern)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Arthur Curry (Aquaman)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Victor Stone (Cyborg)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Oliver Queen (Green Arrow)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "John Constantine",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Barbara Gordon (Batgirl)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jon Snow",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Daenerys Targaryen",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tyrion Lannister",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Cersei Lannister",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jaime Lannister",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Arya Stark",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sansa Stark",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Bran Stark",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jorah Mormont",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Theon Greyjoy",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Geralt of Rivia",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Yennefer of Vengerberg",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ciri (Cirilla)",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Triss Merigold",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Dandelion (Jaskier)",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Vesemir",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Emhyr var Emreis",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Lambert",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Eskel",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Regis",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Percy Jackson",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Annabeth Chase",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Grover Underwood",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Luke Castellan",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Clarisse La Rue",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Thalia Grace",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Nico di Angelo",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Bianca di Angelo",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tyson",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Zoe Nightshade",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Katniss Everdeen",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Peeta Mellark",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gale Hawthorne",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Haymitch Abernathy",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Effie Trinket",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Primrose Everdeen",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "President Snow",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Finnick Odair",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Johanna Mason",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Cinna",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Beatrice \"Tris\" Prior",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tobias \"Four\" Eaton",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Caleb Prior",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Christina",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Will",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Peter Hayes",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Eric",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jeanine Matthews",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tori Wu",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Marcus Eaton",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Thomas",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Teresa Agnes",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Newt",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Minho",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gally",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Frypan",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Chuck",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Aris Jones",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Brenda",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jorge",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Rand al'Thor",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mat Cauthon",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Perrin Aybara",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Egwene al'Vere",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Nynaeve al'Meara",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Moiraine Damodred",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Lan Mandragoran",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Elayne Trakand",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Aviendha",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Thom Merrilin",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kaladin",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Dalinar Kholin",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Shallan Davar",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Adolin Kholin",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Renarin Kholin",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Szeth-son-son-Vallano",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jasnah Kholin",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Navani Kholin",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Wit (Hoid)",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Eshonai",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Vin",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kelsier",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Elend Venture",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sazed",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Breeze (Ladrian)",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ham",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Spook",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Marsh",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tindwyl",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Shan Elariel",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Goku",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Vegeta",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Bulma",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gohan",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Piccolo",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Krillin",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Trunks",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Frieza",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Cell",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Majin Buu",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Naruto Uzumaki",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sasuke Uchiha",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sakura Haruno",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kakashi Hatake",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Hinata Hyuga",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Shikamaru Nara",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gaara",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Itachi Uchiha",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jiraiya",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Orochimaru",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Monkey D. Luffy",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Roronoa Zoro",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Nami",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Usopp",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sanji",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tony Tony Chopper",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Nico Robin",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Franky",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Brook",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Portgas D. Ace",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Eren Yeager",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mikasa Ackerman",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Armin Arlert",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Levi Ackerman",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Erwin Smith",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Hange Zo\u00eb",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sasha Blouse",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jean Kirstein",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Historia Reiss",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Reiner Braun",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ichigo Kurosaki",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Rukia Kuchiki",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Orihime Inoue",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Uryu Ishida",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Yasutora Sado (Chad)",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kisuke Urahara",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Yoruichi Shihouin",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Toshiro Hitsugaya",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Byakuya Kuchiki",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sosuke Aizen",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Izuku Midoriya (Deku)",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Katsuki Bakugo",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ochaco Uraraka",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tenya Iida",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Shoto Todoroki",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "All Might (Toshinori Yagi)",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Endeavor (Enji Todoroki)",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tomura Shigaraki",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tsuyu Asui",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Eijiro Kirishima",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Edward Elric",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Alphonse Elric",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Winry Rockbell",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Roy Mustang",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Riza Hawkeye",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Maes Hughes",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Scar",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Lust",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Envy",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gluttony",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Light Yagami",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "L (Lawliet)",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Misa Amane",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ryuk",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Near (Nate River)",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mello (Mihael Keehl)",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Soichiro Yagami",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Watari (Quillsh Wammy)",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    }
+]

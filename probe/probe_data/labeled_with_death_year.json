@@ -1,0 +1,4898 @@
+[
+    {
+        "name": "Abraham Lincoln",
+        "death_year": "1865",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Agatha Christie",
+        "death_year": "1976",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Albert Camus",
+        "death_year": "1960",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Albert Einstein",
+        "death_year": "1955",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Alexander Graham Bell",
+        "death_year": "1922",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Amelia Earhart",
+        "death_year": "1937",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Andy Kaufman",
+        "death_year": "1984",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Antonio Vivaldi",
+        "death_year": "1741",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Audrey Hepburn",
+        "death_year": "1993",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Ava Gardner",
+        "death_year": "1990",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Babe Ruth",
+        "death_year": "1948",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Barbara Stanwyck",
+        "death_year": "1990",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Beethoven (Ludwig van)",
+        "death_year": "1827",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Benny Hill",
+        "death_year": "1992",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Billie Holiday",
+        "death_year": "1959",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Bob Marley",
+        "death_year": "1981",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Bon Scott",
+        "death_year": "1980",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Boris Karloff",
+        "death_year": "1969",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Buster Keaton",
+        "death_year": "1966",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "B\u00e9la Bart\u00f3k",
+        "death_year": "1945",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Carl Sagan",
+        "death_year": "1996",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Carl Jung",
+        "death_year": "1961",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Cary Grant",
+        "death_year": "1986",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Charlie Chaplin",
+        "death_year": "1977",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Charlie Parker",
+        "death_year": "1955",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Chris Farley",
+        "death_year": "1997",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Clark Gable",
+        "death_year": "1960",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Claude Debussy",
+        "death_year": "1918",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Claude Monet",
+        "death_year": "1926",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Claudette Colbert",
+        "death_year": "1996",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Dal\u00ed (Salvador Dal\u00ed)",
+        "death_year": "1989",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Dean Martin",
+        "death_year": "1995",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Desi Arnaz",
+        "death_year": "1986",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Diana, Princess of Wales",
+        "death_year": "1997",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Dick Shawn",
+        "death_year": "1987",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Dizzy Gillespie",
+        "death_year": "1993",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Dorothy Dandridge",
+        "death_year": "1965",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Duke Ellington",
+        "death_year": "1974",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Dwight D. Eisenhower",
+        "death_year": "1969",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Edgar Degas",
+        "death_year": "1917",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Edith Piaf",
+        "death_year": "1963",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Elvis Presley",
+        "death_year": "1977",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Enzo Ferrari",
+        "death_year": "1988",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Ernest Hemingway",
+        "death_year": "1961",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Ezra Pound",
+        "death_year": "1972",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "F. Scott Fitzgerald",
+        "death_year": "1940",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Federico Fellini",
+        "death_year": "1993",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Fidel Castro",
+        "death_year": "2016",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Florence Nightingale",
+        "death_year": "1910",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Frank Sinatra",
+        "death_year": "1998",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Freddie Mercury",
+        "death_year": "1991",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Frida Kahlo",
+        "death_year": "1954",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Fyodor Dostoevsky",
+        "death_year": "1881",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Gene Kelly",
+        "death_year": "1996",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Gene Siskel",
+        "death_year": "1999",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Gilda Radner",
+        "death_year": "1989",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Ginger Rogers",
+        "death_year": "1995",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Giuseppe Verdi",
+        "death_year": "1901",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Grace Kelly",
+        "death_year": "1982",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Graham Chapman",
+        "death_year": "1989",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Greta Garbo",
+        "death_year": "1990",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Groucho Marx",
+        "death_year": "1977",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Harold Lloyd",
+        "death_year": "1971",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Harrison (George Harrison)",
+        "death_year": "2001",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Hedy Lamarr",
+        "death_year": "2000",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Helen Keller",
+        "death_year": "1968",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Henry Fonda",
+        "death_year": "1982",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Humphrey Bogart",
+        "death_year": "1957",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Ian Fleming",
+        "death_year": "1964",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Igor Stravinsky",
+        "death_year": "1971",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Ingmar Bergman",
+        "death_year": "2007",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Ingrid Bergman",
+        "death_year": "1982",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "James Brown",
+        "death_year": "2006",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "James Dean",
+        "death_year": "1955",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Janis Joplin",
+        "death_year": "1970",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Jean-Michel Basquiat",
+        "death_year": "1988",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Jean-Paul Sartre",
+        "death_year": "1980",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Jerry Garcia",
+        "death_year": "1995",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Jim Henson",
+        "death_year": "1990",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Jim Morrison",
+        "death_year": "1971",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Jimmy Stewart",
+        "death_year": "1997",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Joan Crawford",
+        "death_year": "1977",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "John Belushi",
+        "death_year": "1982",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "John Candy",
+        "death_year": "1994",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "John Coltrane",
+        "death_year": "1967",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "John F. Kennedy",
+        "death_year": "1963",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "John Lennon",
+        "death_year": "1980",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "John Wayne",
+        "death_year": "1979",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Judy Garland",
+        "death_year": "1969",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Kurt Cobain",
+        "death_year": "1994",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Lauren Bacall",
+        "death_year": "2014",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Laurence Olivier",
+        "death_year": "1989",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Lee Strasberg",
+        "death_year": "1982",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Lenny Bruce",
+        "death_year": "1966",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Leonardo da Vinci",
+        "death_year": "1519",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Lou Costello",
+        "death_year": "1959",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Louis Armstrong",
+        "death_year": "1971",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Lucille Ball",
+        "death_year": "1989",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Luther Vandross",
+        "death_year": "2005",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Mahatma Gandhi",
+        "death_year": "1948",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Malcolm X",
+        "death_year": "1965",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Manuel Fangio (Juan Manuel Fangio)",
+        "death_year": "1995",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Marilyn Monroe",
+        "death_year": "1962",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Mark Twain",
+        "death_year": "1910",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Marlene Dietrich",
+        "death_year": "1992",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Martin Luther King Jr.",
+        "death_year": "1968",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Marvin Gaye",
+        "death_year": "1984",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Marylin Miller",
+        "death_year": "1936",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Max Planck",
+        "death_year": "1947",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Medgar Evers",
+        "death_year": "1963",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Michael Landon",
+        "death_year": "1991",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Michael Hutchence",
+        "death_year": "1997",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Mikhail Gorbachev",
+        "death_year": "2022",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Miles Davis",
+        "death_year": "1991",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Mother Teresa",
+        "death_year": "1997",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Nat King Cole",
+        "death_year": "1965",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Nicola Tesla",
+        "death_year": "1943",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Nico (Christa P\u00e4ffgen)",
+        "death_year": "1988",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Nikola Tesla",
+        "death_year": "1943",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Notorious B.I.G. (Christopher Wallace)",
+        "death_year": "1997",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Oliver Hardy",
+        "death_year": "1957",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Orson Welles",
+        "death_year": "1985",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Oscar Wilde",
+        "death_year": "1900",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Otis Redding",
+        "death_year": "1967",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Pablo Neruda",
+        "death_year": "1973",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Pablo Picasso",
+        "death_year": "1973",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Phil Hartman",
+        "death_year": "1998",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Princess Grace (Grace Kelly)",
+        "death_year": "1982",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Pyotr Ilyich Tchaikovsky",
+        "death_year": "1893",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Redd Foxx",
+        "death_year": "1991",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Richard Feynman",
+        "death_year": "1988",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Rita Hayworth",
+        "death_year": "1987",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "River Phoenix",
+        "death_year": "1993",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Roberto Clemente",
+        "death_year": "1972",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Rod Serling",
+        "death_year": "1975",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Roger Miller",
+        "death_year": "1992",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Roman Polanski\u2019s wife Sharon Tate",
+        "death_year": "1969",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Roy Orbison",
+        "death_year": "1988",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Rudolf Nureyev",
+        "death_year": "1993",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Sam Cooke",
+        "death_year": "1964",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Sam Kinison",
+        "death_year": "1992",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Sarah Vaughan",
+        "death_year": "1990",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Satyajit Ray",
+        "death_year": "1992",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Sergei Rachmaninoff",
+        "death_year": "1943",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Sharon Tate",
+        "death_year": "1969",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Sigmund Freud",
+        "death_year": "1939",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Spencer Tracy",
+        "death_year": "1967",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Stan Laurel",
+        "death_year": "1965",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Stanley Kubrick",
+        "death_year": "1999",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Steve McQueen (actor)",
+        "death_year": "1980",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Tammi Terrell",
+        "death_year": "1970",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Terry Pratchett",
+        "death_year": "2015",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Thomas Edison",
+        "death_year": "1931",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Tim Bergling (Avicii)",
+        "death_year": "2018",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Tupac Shakur",
+        "death_year": "1996",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Umm Kulthum",
+        "death_year": "1975",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Vivien Leigh",
+        "death_year": "1967",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Voltaire (Fran\u00e7ois-Marie Arouet)",
+        "death_year": "1778",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "W.C. Fields",
+        "death_year": "1946",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Walt Disney",
+        "death_year": "1966",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Walter Payton",
+        "death_year": "1999",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Waylon Jennings",
+        "death_year": "2002",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Wilbur Wright",
+        "death_year": "1912",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Winston Churchill",
+        "death_year": "1965",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Wolfgang Amadeus Mozart",
+        "death_year": "1791",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Yves Saint Laurent",
+        "death_year": "2008",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Zeppo Marx",
+        "death_year": "1979",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Zora Neale Hurston",
+        "death_year": "1960",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "\u00c9dith Piaf",
+        "death_year": "1963",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "\u00c9mile Zola",
+        "death_year": "1902",
+        "isDead": 1,
+        "label": 0
+    },
+    {
+        "name": "Romeo Montague",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Juliet Capulet",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Mercutio",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Tybalt",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Paris",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Cleopatra",
+        "death_year": "30 BC",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Mark Antony",
+        "death_year": "30 BC",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Othello",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Desdemona",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "King Lear",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Macbeth",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Lady Macbeth",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Banquo",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Hamlet",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Polonius",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Ophelia",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Claudius",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Goneril",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Regan",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Cordelia",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Oedipus",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Jocasta",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Antigone",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Eteocles",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Polynices",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Agamemnon",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Clytemnestra",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Aegisthus",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Iphigenia",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Achilles",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Hector",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Patroclus",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Ajax",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "King Priam",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Cassandra",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Hippolytus",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Phaedra",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Glauce",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Polyxena",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Sarpedon",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Penthesilea",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Beowulf",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Grendel",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Grendel's Mother",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Roland",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "King Arthur",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Lancelot",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Guinevere",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Mordred",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Tristan",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Isolde",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Gawain",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Siegfried",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Kriemhild",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Hagen",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Sigurd",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Brynhild",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Don Quixote",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Erik (Phantom of the Opera)",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Katerina Ivanovna",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Prince Andrei Bolkonsky",
+        "death_year": "1812",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Helene Kuragina",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Lise Bolkonskaya",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Anna Karenina",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Fantine",
+        "death_year": "1832",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "\u00c9ponine",
+        "death_year": "1832",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Gavroche",
+        "death_year": "1832",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Jean Valjean",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Javert",
+        "death_year": "1832",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Captain Ahab",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Sydney Carton",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Madame Defarge",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Jay Gatsby",
+        "death_year": "1922",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Myrtle Wilson",
+        "death_year": "1922",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Lennie Small",
+        "death_year": "1947",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Snowden",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Paul B\u00e4umer",
+        "death_year": "1918",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Robert Jordan",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Leslie Burke",
+        "death_year": "1977",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Boromir",
+        "death_year": "3019",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "F\u00ebanor",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Fingolfin",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Finw\u00eb",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Maedhros",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Fingon",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Turgon",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "L\u00fathien",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Beren",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "H\u00farin",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "T\u00farin Turambar",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Eddard \"Ned\" Stark",
+        "death_year": "298",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Robb Stark",
+        "death_year": "298",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Catelyn Stark",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Khal Drogo",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Tywin Lannister",
+        "death_year": "298",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Oberyn Martell",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Stannis Baratheon",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Renly Baratheon",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Joffrey Baratheon",
+        "death_year": "298",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Theon Greyjoy",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "James Potter",
+        "death_year": "1981",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Lily Potter",
+        "death_year": "1981",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Sirius Black",
+        "death_year": "1996",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Albus Dumbledore",
+        "death_year": "1997",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Cedric Diggory",
+        "death_year": "1995",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Severus Snape",
+        "death_year": "1998",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Remus Lupin",
+        "death_year": "1998",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Nymphadora Tonks",
+        "death_year": "1998",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Fred Weasley",
+        "death_year": "2020",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Colin Creevey",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Obi-Wan Kenobi",
+        "death_year": "4 ABY",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Anakin Skywalker (Darth Vader)",
+        "death_year": "4 ABY",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Padm\u00e9 Amidala",
+        "death_year": "19",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Darth Maul",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Qui-Gon Jinn",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Mace Windu",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Count Dooku",
+        "death_year": "19 BBY",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Luke Skywalker",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Yoda",
+        "death_year": "4 ABY",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Jango Fett",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Bill Sikes",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Nancy",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Dora Spenlow",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Beth March",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Abb\u00e9 Faria",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Catherine Earnshaw",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Heathcliff",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Helen Burns",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Lucy Westenra",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "King Kong",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Professor Moriarty",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Mary Morstan (Watson)",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Captain Hook",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Billy Bones",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Quasimodo",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Esmeralda",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "John the Savage",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Robin Hood",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Brian de Bois-Guilbert",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Bartleby",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Jadis (The White Witch)",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "King Miraz",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Saruman",
+        "death_year": "3019",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "The Witch-king of Angmar",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Denethor",
+        "death_year": "3019",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "King Th\u00e9oden",
+        "death_year": "3019",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Thorin Oakenshield",
+        "death_year": "2941",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Fili",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Kili",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Smaug",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Gollum (Sm\u00e9agol)",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Elendil",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Balon Greyjoy",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Margaery Tyrell",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Loras Tyrell",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Tommen Baratheon",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Walder Frey",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Ramsay Bolton",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Rickon Stark",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Hodor",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Ariana Dumbledore",
+        "death_year": "1997",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Nicolas Flamel",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Barty Crouch Sr.",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Vincent Crabbe",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Bellatrix Lestrange",
+        "death_year": "1998",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Peter Pettigrew",
+        "death_year": "1998",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Gellert Grindelwald",
+        "death_year": "1998",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Rowena Ravenclaw",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Helga Hufflepuff",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Godric Gryffindor",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Melanie Hamilton Wilkes",
+        "death_year": "1873",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Algernon (the mouse)",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Granma Joad",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Johnny Cade",
+        "death_year": "1965",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Dallas Winston",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Vergible \"Tea Cake\" Woods",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Father Ralph de Bricassart",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "King Haggard",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Abdul Alhazred",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Jim Conklin",
+        "death_year": "1863",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Quincey Morris",
+        "death_year": "1890",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Dido",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Doctor Faustus",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Dorian Gray",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Queequeg",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "George Osborne",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Bonnie Blue Butler",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Aron Trask",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Cory Dollanganger",
+        "death_year": "1980",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Judeau",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Pippin (Band of the Hawk)",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Maes Hughes",
+        "death_year": "2010",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Kiky\u014d",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Tomoe Yukishiro",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Jonathan Joestar",
+        "death_year": "1889",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Emma Bovary",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Kurtz",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Humbert Humbert",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Father Damien Karras",
+        "death_year": "1973",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Jack Torrance",
+        "death_year": "1980",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Gage Creed",
+        "death_year": "1983",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Susan Norton",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Carrie White",
+        "death_year": "1976",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Georgie Denbrough",
+        "death_year": "1985",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Annie Wilkes",
+        "death_year": "1990",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Billy Bibbit",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Quint",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Marion Crane",
+        "death_year": "1960",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Angel Eyes",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Casey Becker",
+        "death_year": "1996",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Jame Gumb (Buffalo Bill)",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Tony Montana",
+        "death_year": "1983",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Sonny Corleone",
+        "death_year": "1972",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Fredo Corleone",
+        "death_year": "1979",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Colonel Kurtz",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Sgt. Elias Grodin",
+        "death_year": "1968",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Private Mellish",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Jack Dawson",
+        "death_year": "1912",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Thomas Wayne",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Martha Wayne",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Uncle Ben (Ben Parker)",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Jonathan Kent (Pa Kent)",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Jean Grey",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Edward Blake (The Comedian)",
+        "death_year": "1985",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "V",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Kyle Reese",
+        "death_year": "2029",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Laura Palmer",
+        "death_year": "1989",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Carl Showalter",
+        "death_year": "2001",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Queen Calanthe",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Pavetta",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "King Caspian X",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Ysgramor",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Vilgefortz",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "B\u00ealit",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "John Coffey",
+        "death_year": "1999",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Bruno",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Winnie Foster",
+        "death_year": "-1",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Rudy Steiner",
+        "death_year": "1943",
+        "isDead": 1,
+        "label": 1
+    },
+    {
+        "name": "Harry Potter",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Hermione Granger",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Ron Weasley",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Albus Dumbledore",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Severus Snape",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Rubeus Hagrid",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Draco Malfoy",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Minerva McGonagall",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Luna Lovegood",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Neville Longbottom",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Frodo Baggins",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Samwise Gamgee",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Aragorn",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Legolas",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Gimli",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Gandalf",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Boromir",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Galadriel",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Elrond",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Arwen",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Aslan",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Peter Pevensie",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Susan Pevensie",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Edmund Pevensie",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Lucy Pevensie",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Prince Caspian",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Eustace Scrubb",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Jill Pole",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Mr. Tumnus",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Jadis the White Witch",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Luke Skywalker",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Leia Organa",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Han Solo",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Darth Vader",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Obi-Wan Kenobi",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Yoda",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Chewbacca",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Palpatine",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Padm\u00e9 Amidala",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Ahsoka Tano",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "James T. Kirk",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Spock",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Leonard McCoy",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Nyota Uhura",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Montgomery Scott",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Hikaru Sulu",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Jean-Luc Picard",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "William Riker",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Data",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Worf",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Tony Stark (Iron Man)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Steve Rogers (Captain America)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Thor Odinson",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Bruce Banner (Hulk)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Natasha Romanoff (Black Widow)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Clint Barton (Hawkeye)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Peter Parker (Spider-Man)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Wanda Maximoff (Scarlet Witch)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Vision",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "T'Challa (Black Panther)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Bruce Wayne (Batman)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Clark Kent (Superman)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Diana Prince (Wonder Woman)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Barry Allen (The Flash)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Hal Jordan (Green Lantern)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Arthur Curry (Aquaman)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Victor Stone (Cyborg)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Oliver Queen (Green Arrow)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "John Constantine",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Barbara Gordon (Batgirl)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Jon Snow",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Daenerys Targaryen",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Tyrion Lannister",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Cersei Lannister",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Jaime Lannister",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Arya Stark",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Sansa Stark",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Bran Stark",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Jorah Mormont",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Theon Greyjoy",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Geralt of Rivia",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Yennefer of Vengerberg",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Ciri (Cirilla)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Triss Merigold",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Dandelion (Jaskier)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Vesemir",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Emhyr var Emreis",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Lambert",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Eskel",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Regis",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Percy Jackson",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Annabeth Chase",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Grover Underwood",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Luke Castellan",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Clarisse La Rue",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Thalia Grace",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Nico di Angelo",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Bianca di Angelo",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Tyson",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Zoe Nightshade",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Katniss Everdeen",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Peeta Mellark",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Gale Hawthorne",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Haymitch Abernathy",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Effie Trinket",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Primrose Everdeen",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "President Snow",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Finnick Odair",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Johanna Mason",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Cinna",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Beatrice \"Tris\" Prior",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Tobias \"Four\" Eaton",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Caleb Prior",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Christina",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Will",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Peter Hayes",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Eric",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Jeanine Matthews",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Tori Wu",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Marcus Eaton",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Thomas",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Teresa Agnes",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Newt",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Minho",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Gally",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Frypan",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Chuck",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Aris Jones",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Brenda",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Jorge",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Rand al'Thor",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Mat Cauthon",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Perrin Aybara",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Egwene al'Vere",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Nynaeve al'Meara",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Moiraine Damodred",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Lan Mandragoran",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Elayne Trakand",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Aviendha",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Thom Merrilin",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Kaladin",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Dalinar Kholin",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Shallan Davar",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Adolin Kholin",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Renarin Kholin",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Szeth-son-son-Vallano",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Jasnah Kholin",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Navani Kholin",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Wit (Hoid)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Eshonai",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Vin",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Kelsier",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Elend Venture",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Sazed",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Breeze (Ladrian)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Ham",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Spook",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Marsh",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Tindwyl",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Shan Elariel",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Goku",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Vegeta",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Bulma",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Gohan",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Piccolo",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Krillin",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Trunks",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Frieza",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Cell",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Majin Buu",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Naruto Uzumaki",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Sasuke Uchiha",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Sakura Haruno",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Kakashi Hatake",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Hinata Hyuga",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Shikamaru Nara",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Gaara",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Itachi Uchiha",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Jiraiya",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Orochimaru",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Monkey D. Luffy",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Roronoa Zoro",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Nami",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Usopp",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Sanji",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Tony Tony Chopper",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Nico Robin",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Franky",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Brook",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Portgas D. Ace",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Eren Yeager",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Mikasa Ackerman",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Armin Arlert",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Levi Ackerman",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Erwin Smith",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Hange Zo\u00eb",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Sasha Blouse",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Jean Kirstein",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Historia Reiss",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Reiner Braun",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Ichigo Kurosaki",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Rukia Kuchiki",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Orihime Inoue",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Uryu Ishida",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Yasutora Sado (Chad)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Kisuke Urahara",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Yoruichi Shihouin",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Toshiro Hitsugaya",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Byakuya Kuchiki",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Sosuke Aizen",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Izuku Midoriya (Deku)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Katsuki Bakugo",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Ochaco Uraraka",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Tenya Iida",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Shoto Todoroki",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "All Might (Toshinori Yagi)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Endeavor (Enji Todoroki)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Tomura Shigaraki",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Tsuyu Asui",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Eijiro Kirishima",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Edward Elric",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Alphonse Elric",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Winry Rockbell",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Roy Mustang",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Riza Hawkeye",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Maes Hughes",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Scar",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Lust",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Envy",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Gluttony",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Light Yagami",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "L (Lawliet)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Misa Amane",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Ryuk",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Near (Nate River)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Mello (Mihael Keehl)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Soichiro Yagami",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Watari (Quillsh Wammy)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 1
+    },
+    {
+        "name": "Lula da Silva",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Evo Morales",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Pope Francis",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "King Charles III",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Jacinda Ardern",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Scott Morrison",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Malcolm Turnbull",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Recep Tayyip Erdo\u011fan",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Benjamin Netanyahu",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Ehud Barak",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Golda Meir",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Jimmy Carter",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Mikhail Gorbachev",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Fidel Castro",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Fran\u00e7ois Hollande",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Pedro S\u00e1nchez",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Giuseppe Conte",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Silvio Berlusconi",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Viktor Orb\u00e1n",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Nicol\u00e1s Maduro",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Stephen King",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "J.K. Rowling",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "George R.R. Martin",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "J.R.R. Tolkien",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Agatha Christie",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Dan Brown",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "John Grisham",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "James Patterson",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Nicholas Sparks",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Margaret Atwood",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Haruki Murakami",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Salman Rushdie",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Paulo Coelho",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Neil Gaiman",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Brandon Sanderson",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Suzanne Collins",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Veronica Roth",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Rick Riordan",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "E L James",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Michael Crichton",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Tom Clancy",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Cormac McCarthy",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Diana Gabaldon",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Tayari Jones",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Colleen Hoover",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Gillian Flynn",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Stephenie Meyer",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Cassandra Clare",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Terry Pratchett",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Arthur Conan Doyle",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Nora Roberts",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Michael Connelly",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Fredrik Backman",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "John Green",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Markus Zusak",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Celeste Ng",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Ken Follett",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Khaled Hosseini",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Chimamanda Ngozi Adichie",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Toni Morrison",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Jonathan Franzen",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Zadie Smith",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Alice Walker",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Amy Tan",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Muriel Barbery",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Elena Ferrante",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Donna Tartt",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Lisa See",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "V.E. Schwab",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Erin Morgenstern",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Steven Spielberg",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Martin Scorsese",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Quentin Tarantino",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Christopher Nolan",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Ridley Scott",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "James Cameron",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Peter Jackson",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Tim Burton",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Clint Eastwood",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Ron Howard",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "J.J. Abrams",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Zack Snyder",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Michael Bay",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "David Fincher",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Guillermo del Toro",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Wes Anderson",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Kathryn Bigelow",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Sofia Coppola",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Francis Ford Coppola",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Woody Allen",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Spike Lee",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Bong Joon-ho",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Ang Lee",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Park Chan-wook",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "George Lucas",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Jon Favreau",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Greta Gerwig",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "James Wan",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "M. Night Shyamalan",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Kevin Feige",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Joe Russo",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Anthony Russo",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Bryan Singer",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Brett Ratner",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Steve McQueen (director)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Jordan Peele",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Judd Apatow",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Taika Waititi",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Kenneth Branagh",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Baz Luhrmann",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Peter Farrelly",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Robert Zemeckis",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Guy Ritchie",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Patty Jenkins",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Luc Besson",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "John Woo",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Rian Johnson",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Damien Chazelle",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Drew Goddard",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Cary Joji Fukunaga",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Oprah Winfrey",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Ellen DeGeneres",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Jimmy Fallon",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Jimmy Kimmel",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Stephen Colbert",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "James Corden",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Trevor Noah",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Conan O'Brien",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Seth Meyers",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Jay Leno",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "David Letterman",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Howard Stern",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Ryan Seacrest",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Anderson Cooper",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Dr. Phil McGraw",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Wendy Williams",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Piers Morgan",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Simon Cowell",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Gordon Ramsay",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Jamie Oliver",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Martha Stewart",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Kylie Jenner",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Kim Kardashian",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Khlo\u00e9 Kardashian",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Kourtney Kardashian",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Kendall Jenner",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Kris Jenner",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Paris Hilton",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Nicole Richie",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Travis Barker",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "DJ Khaled",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Pitbull (Armando Perez)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Logan Paul",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Jake Paul",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "MrBeast (Jimmy Donaldson)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "PewDiePie (Felix Kjellberg)",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Emma Chamberlain",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Addison Rae",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Charli D'Amelio",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Dixie D'Amelio",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "JoJo Siwa",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Tyler Perry",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Bill Gates",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Elon Musk",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Jeff Bezos",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Mark Zuckerberg",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Tim Cook",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Sundar Pichai",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Jack Ma",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    },
+    {
+        "name": "Warren Buffett",
+        "death_year": 2025,
+        "isDead": 0,
+        "label": 0
+    }
+]

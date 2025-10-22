@@ -11,4 +11,62 @@ We leverage these insights to improve consistency in the model's abstention and 
 ![Screenshot 2025-05-19 at 11 51 12](https://github.com/user-attachments/assets/85aa62d4-b759-4932-9875-8c067989e9c0)
 
 ## Code and Dataset
-Coming Soon! Stay tuned!
+To have the environment running, you will need to run the following command:
+```
+conda create -n incongruence python=3.11.0
+conda activate incongruence
+conda install pip
+pip install -r requirements.txt
+```
+
+## File Structure
+```
+Persona_Understanding
+├── src
+│   ├── generation
+│   │   ├── generate.py
+│   │   ├── ai_generation.py (used for non-role-playing generation)
+│   │   ├── alive_generation.py (used for alive people generation)
+│   ├── eval
+│   │   ├── evaluate.py (abstain and answer)
+│   │   ├── accuracy_label.py (accuracy)
+│   ├── plot_prep
+│   │   ├── stat_yearly.py (only for yearly question, stat and plot)
+│   │   ├── extract_evaluation.py (extract the label into 0 and 1)
+│   │   ├── stat_plot.py (have the stat all three metrics)
+|   |── generation
+│   ├── script 
+│   │   ├── eval_*.sh
+│   │   ├── generation_*.sh
+│   │   ├── extract.sh
+│   │   ├── *_plot.sh
+│   ├── constant.py
+│   ├── prompt_template.py
+```
+
+## Implimentation
+- `generate_*.sh` is the main script for generation to role-play answers. Output to `answers/{model}/{type}` folder as a json file.
+- `eval_abstain_answer.sh` is the main script for evaluating abstain and answer. Output to `evaluation/{model}/{type}/{question_type}/{type}_abstain_answer.json` folder as a json file. !! You will need to manually delete a ',' in the end of the file.
+- `eval_acc.sh` is the main script for evaluating accuracy. Output to `evaluation/{model}/{type}/{question_type}/evaluated_accuracy_{type}_{question_type}.json` folder as a json file. !! You will need to manually delete a ',' in the end of the file so that the next steps can run.
+- `extract.sh` is the main script for changing the LLM evaluation to labels. Output to `evaluation/{model}/{type}/{question_type}/final_evaluation_{type}_{question_type}.json` folder as a json file. 
+- `stat.sh` is the main script for stat the labels. Output to `evaluation/{model}/{type}/{question_type}/stat_{type}_{question_type}.txt` folder as a txt file. 
+- `bar_plot.sh` is the main script for bar plot. It will output a plot in  `plot` folder and output a bar chart. 
+- `yearly_plot.sh` is the main script for yearly plot. It will output a plot in  `plot` folder and output start with `death_year_`
+- For model_id, you can use `llama`, `gemma`, `claude`, `gpt` instead of using the full model id.
+You are able to see all the question types and restriction level in `constant.py`
+
+
+## Cite
+If you found our code, datasets and work helpful in your research, please cite our paper.
+
+```
+@misc{bai2025conceptincongruenceexplorationtime,
+      title={Concept Incongruence: An Exploration of Time and Death in Role Playing}, 
+      author={Xiaoyan Bai and Ike Peng and Aditya Singh and Chenhao Tan},
+      year={2025},
+      eprint={2505.14905},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.14905}, 
+}
+```

@@ -1,0 +1,707 @@
+[   
+{
+        "type": "real_person",
+        "characters": [
+            {
+                "role": "Agatha Christie",
+                "source": "none",
+                "type": "real_person",
+                "year": 1976,
+                "president": null
+            },
+            {
+                "role": "Albert Einstein",
+                "source": "none",
+                "type": "real_person",
+                "year": 1955,
+                "president": null
+            },
+            {
+                "role": "Alexander Graham Bell",
+                "source": "none",
+                "type": "real_person",
+                "year": 1922,
+                "president": null
+            },
+            {
+                "role": "Amelia Earhart",
+                "source": "none",
+                "type": "real_person",
+                "year": 1937,
+                "president": null
+            },
+            {
+                "role": "Andy Kaufman",
+                "source": "none",
+                "type": "real_person",
+                "year": 1984,
+                "president": null
+            },
+            {
+                "role": "Ava Gardner",
+                "source": "none",
+                "type": "real_person",
+                "year": 1990,
+                "president": null
+            },
+            {
+                "role": "Babe Ruth",
+                "source": "none",
+                "type": "real_person",
+                "year": 1948,
+                "president": null
+            },
+            {
+                "role": "Barbara Stanwyck",
+                "source": "none",
+                "type": "real_person",
+                "year": 1990,
+                "president": null
+            },
+            {
+                "role": "Billie Holiday",
+                "source": "none",
+                "type": "real_person",
+                "year": 1959,
+                "president": null
+            },
+            {
+                "role": "Bob Marley",
+                "source": "none",
+                "type": "real_person",
+                "year": 1981,
+                "president": null
+            },
+            {
+                "role": "Bon Scott",
+                "source": "none",
+                "type": "real_person",
+                "year": 1980,
+                "president": null
+            },
+            {
+                "role": "Boris Karloff",
+                "source": "none",
+                "type": "real_person",
+                "year": 1969,
+                "president": null
+            },
+            {
+                "role": "Buster Keaton",
+                "source": "none",
+                "type": "real_person",
+                "year": 1966,
+                "president": null
+            },
+            {
+                "role": "Carl Jung",
+                "source": "none",
+                "type": "real_person",
+                "year": 1961,
+                "president": null
+            },
+            {
+                "role": "Cary Grant",
+                "source": "none",
+                "type": "real_person",
+                "year": 1986,
+                "president": null
+            },
+            {
+                "role": "Charlie Chaplin",
+                "source": "none",
+                "type": "real_person",
+                "year": 1977,
+                "president": null
+            },
+            {
+                "role": "Charlie Parker",
+                "source": "none",
+                "type": "real_person",
+                "year": 1955,
+                "president": null
+            },
+            {
+                "role": "Clark Gable",
+                "source": "none",
+                "type": "real_person",
+                "year": 1960,
+                "president": null
+            },
+            {
+                "role": "Claude Debussy",
+                "source": "none",
+                "type": "real_person",
+                "year": 1918,
+                "president": null
+            },
+            {
+                "role": "Claude Monet",
+                "source": "none",
+                "type": "real_person",
+                "year": 1926,
+                "president": null
+            },
+            {
+                "role": "Desi Arnaz",
+                "source": "none",
+                "type": "real_person",
+                "year": 1986,
+                "president": null
+            },
+            {
+                "role": "Dick Shawn",
+                "source": "none",
+                "type": "real_person",
+                "year": 1987,
+                "president": null
+            },
+            {
+                "role": "Dorothy Dandridge",
+                "source": "none",
+                "type": "real_person",
+                "year": 1965,
+                "president": null
+            },
+            {
+                "role": "Duke Ellington",
+                "source": "none",
+                "type": "real_person",
+                "year": 1974,
+                "president": null
+            },
+            {
+                "role": "Dwight D. Eisenhower",
+                "source": "none",
+                "type": "real_person",
+                "year": 1969,
+                "president": null
+            },
+            {
+                "role": "Edgar Degas",
+                "source": "none",
+                "type": "real_person",
+                "year": 1917,
+                "president": null
+            },
+            {
+                "role": "Edith Piaf",
+                "source": "none",
+                "type": "real_person",
+                "year": 1963,
+                "president": null
+            },
+            {
+                "role": "Elvis Presley",
+                "source": "none",
+                "type": "real_person",
+                "year": 1977,
+                "president": null
+            },
+            {
+                "role": "Enzo Ferrari",
+                "source": "none",
+                "type": "real_person",
+                "year": 1988,
+                "president": null
+            },
+            {
+                "role": "Ernest Hemingway",
+                "source": "none",
+                "type": "real_person",
+                "year": 1961,
+                "president": null
+            },
+            {
+                "role": "Ezra Pound",
+                "source": "none",
+                "type": "real_person",
+                "year": 1972,
+                "president": null
+            },
+            {
+                "role": "F. Scott Fitzgerald",
+                "source": "none",
+                "type": "real_person",
+                "year": 1940,
+                "president": null
+            },
+            {
+                "role": "Humphrey Bogart",
+                "source": "none",
+                "type": "real_person",
+                "year": 1957,
+                "president": null
+            },
+            {
+                "role": "Ian Fleming",
+                "source": "none",
+                "type": "real_person",
+                "year": 1964,
+                "president": null
+            },
+            {
+                "role": "Igor Stravinsky",
+                "source": "none",
+                "type": "real_person",
+                "year": 1971,
+                "president": null
+            },
+            {
+                "role": "Ingrid Bergman",
+                "source": "none",
+                "type": "real_person",
+                "year": 1982,
+                "president": null
+            },
+            {
+                "role": "James Dean",
+                "source": "none",
+                "type": "real_person",
+                "year": 1955,
+                "president": null
+            },
+            {
+                "role": "Janis Joplin",
+                "source": "none",
+                "type": "real_person",
+                "year": 1970,
+                "president": null
+            },
+            {
+                "role": "Jean-Michel Basquiat",
+                "source": "none",
+                "type": "real_person",
+                "year": 1988,
+                "president": null
+            },
+            {
+                "role": "Jean-Paul Sartre",
+                "source": "none",
+                "type": "real_person",
+                "year": 1980,
+                "president": null
+            },
+            {
+                "role": "Jim Henson",
+                "source": "none",
+                "type": "real_person",
+                "year": 1990,
+                "president": null
+            },
+            {
+                "role": "Jim Morrison",
+                "source": "none",
+                "type": "real_person",
+                "year": 1971,
+                "president": null
+            },
+            {
+                "role": "Joan Crawford",
+                "source": "none",
+                "type": "real_person",
+                "year": 1977,
+                "president": null
+            },
+            {
+                "role": "John Belushi",
+                "source": "none",
+                "type": "real_person",
+                "year": 1982,
+                "president": null
+            },
+            {
+                "role": "John Coltrane",
+                "source": "none",
+                "type": "real_person",
+                "year": 1967,
+                "president": null
+            },
+            {
+                "role": "John Lennon",
+                "source": "none",
+                "type": "real_person",
+                "year": 1980,
+                "president": null
+            },
+            {
+                "role": "John Wayne",
+                "source": "none",
+                "type": "real_person",
+                "year": 1979,
+                "president": null
+            },
+            {
+                "role": "Judy Garland",
+                "source": "none",
+                "type": "real_person",
+                "year": 1969,
+                "president": null
+            },
+            {
+                "role": "Laurence Olivier",
+                "source": "none",
+                "type": "real_person",
+                "year": 1989,
+                "president": null
+            },
+            {
+                "role": "Lee Strasberg",
+                "source": "none",
+                "type": "real_person",
+                "year": 1982,
+                "president": null
+            },
+            {
+                "role": "Lenny Bruce",
+                "source": "none",
+                "type": "real_person",
+                "year": 1966,
+                "president": null
+            },
+            {
+                "role": "Lou Costello",
+                "source": "none",
+                "type": "real_person",
+                "year": 1959,
+                "president": null
+            },
+            {
+                "role": "Louis Armstrong",
+                "source": "none",
+                "type": "real_person",
+                "year": 1971,
+                "president": null
+            },
+            {
+                "role": "Lucille Ball",
+                "source": "none",
+                "type": "real_person",
+                "year": 1989,
+                "president": null
+            },
+            {
+                "role": "Mahatma Gandhi",
+                "source": "none",
+                "type": "real_person",
+                "year": 1948,
+                "president": null
+            },
+            {
+                "role": "Malcolm X",
+                "source": "none",
+                "type": "real_person",
+                "year": 1965,
+                "president": null
+            },
+            {
+                "role": "Marilyn Monroe",
+                "source": "none",
+                "type": "real_person",
+                "year": 1962,
+                "president": null
+            },
+            {
+                "role": "Mark Twain",
+                "source": "none",
+                "type": "real_person",
+                "year": 1910,
+                "president": null
+            },
+            {
+                "role": "Martin Luther King Jr.",
+                "source": "none",
+                "type": "real_person",
+                "year": 1968,
+                "president": null
+            },
+            {
+                "role": "Marvin Gaye",
+                "source": "none",
+                "type": "real_person",
+                "year": 1984,
+                "president": null
+            },
+            {
+                "role": "Marilyn Miller",
+                "source": "none",
+                "type": "real_person",
+                "year": 1936,
+                "president": null
+            },
+            {
+                "role": "Max Planck",
+                "source": "none",
+                "type": "real_person",
+                "year": 1947,
+                "president": null
+            },
+            {
+                "role": "Medgar Evers",
+                "source": "none",
+                "type": "real_person",
+                "year": 1963,
+                "president": null
+            },
+            {
+                "role": "Nat King Cole",
+                "source": "none",
+                "type": "real_person",
+                "year": 1965,
+                "president": null
+            },
+            {
+                "role": "Nikola Tesla",
+                "source": "none",
+                "type": "real_person",
+                "year": 1943,
+                "president": null
+            },
+            {
+                "role": "Oliver Hardy",
+                "source": "none",
+                "type": "real_person",
+                "year": 1957,
+                "president": null
+            },
+            {
+                "role": "Orson Welles",
+                "source": "none",
+                "type": "real_person",
+                "year": 1985,
+                "president": null
+            },
+            {
+                "role": "Otis Redding",
+                "source": "none",
+                "type": "real_person",
+                "year": 1967,
+                "president": null
+            },
+            {
+                "role": "Oscar Wilde",
+                "source": "none",
+                "type": "real_person",
+                "year": 1900,
+                "president": null
+            },
+            {
+                "role": "Pablo Neruda",
+                "source": "none",
+                "type": "real_person",
+                "year": 1973,
+                "president": null
+            },
+            {
+                "role": "Richard Feynman",
+                "source": "none",
+                "type": "real_person",
+                "year": 1988,
+                "president": null
+            },
+            {
+                "role": "Rita Hayworth",
+                "source": "none",
+                "type": "real_person",
+                "year": 1987,
+                "president": null
+            },
+            {
+                "role": "Roberto Clemente",
+                "source": "none",
+                "type": "real_person",
+                "year": 1972,
+                "president": null
+            },
+            {
+                "role": "Rod Serling",
+                "source": "none",
+                "type": "real_person",
+                "year": 1975,
+                "president": null
+            },
+            {
+                "role": "Roy Orbison",
+                "source": "none",
+                "type": "real_person",
+                "year": 1988,
+                "president": null
+            },
+            {
+                "role": "Sam Cooke",
+                "source": "none",
+                "type": "real_person",
+                "year": 1964,
+                "president": null
+            },
+            {
+                "role": "Sarah Vaughan",
+                "source": "none",
+                "type": "real_person",
+                "year": 1990,
+                "president": null
+            },
+            {
+                "role": "Sergei Rachmaninoff",
+                "source": "none",
+                "type": "real_person",
+                "year": 1943,
+                "president": null
+            },
+            {
+                "role": "Sharon Tate",
+                "source": "none",
+                "type": "real_person",
+                "year": 1969,
+                "president": null
+            },
+            {
+                "role": "Spencer Tracy",
+                "source": "none",
+                "type": "real_person",
+                "year": 1967,
+                "president": null
+            },
+            {
+                "role": "Stan Laurel",
+                "source": "none",
+                "type": "real_person",
+                "year": 1965,
+                "president": null
+            },
+            {
+                "role": "Steve McQueen",
+                "source": "none",
+                "type": "real_person",
+                "year": 1980,
+                "president": null
+            },
+            {
+                "role": "Tammi Terrell",
+                "source": "none",
+                "type": "real_person",
+                "year": 1970,
+                "president": null
+            },
+            {
+                "role": "Thomas Edison",
+                "source": "none",
+                "type": "real_person",
+                "year": 1931,
+                "president": null
+            },
+            {
+                "role": "Umm Kulthum",
+                "source": "none",
+                "type": "real_person",
+                "year": 1975,
+                "president": null
+            },
+            {
+                "role": "Vivien Leigh",
+                "source": "none",
+                "type": "real_person",
+                "year": 1967,
+                "president": null
+            },
+            {
+                "role": "W. C. Fields",
+                "source": "none",
+                "type": "real_person",
+                "year": 1946,
+                "president": null
+            },
+            {
+                "role": "Walt Disney",
+                "source": "none",
+                "type": "real_person",
+                "year": 1966,
+                "president": null
+            },
+            {
+                "role": "Wilbur Wright",
+                "source": "none",
+                "type": "real_person",
+                "year": 1912,
+                "president": null
+            },
+            {
+                "role": "Winston Churchill",
+                "source": "none",
+                "type": "real_person",
+                "year": 1965,
+                "president": null
+            },
+            {
+                "role": "Zeppo Marx",
+                "source": "none",
+                "type": "real_person",
+                "year": 1979,
+                "president": null
+            },
+            {
+                "role": "Zora Neale Hurston",
+                "source": "none",
+                "type": "real_person",
+                "year": 1960,
+                "president": null
+            },
+            {
+                "role": "Princess Diana",
+                "source": "none",
+                "type": "real_person",
+                "year": 1977,
+                "president": null
+            },
+            {
+                "role": "Marie Curie",
+                "source": "none",
+                "type": "real_person",
+                "year": 1934,
+                "president": null
+            },
+            {
+                "role": "Harriet Tubman",
+                "source": "none",
+                "type": "real_person",
+                "year": 1913,
+                "president": null
+            },
+            {
+                "role": "George Washington Carver",
+                "source": "none",
+                "type": "real_person",
+                "year": 1943,
+                "president": null
+            },
+            {
+                "role": "Madam C. J. Walker",
+                "source": "none",
+                "type": "real_person",
+                "year": 1919,
+                "president": null
+            },
+            {
+                "role": "Sigmund Freud",
+                "source": "none",
+                "type": "real_person",
+                "year": 1939,
+                "president": null
+            },
+            {
+                "role": "Joseph Stalin",
+                "source": "none",
+                "type": "real_person",
+                "year": 1953,
+                "president": null
+            },
+            {
+                "role": "Pablo Picasso",
+                "source": "none",
+                "type": "real_person",
+                "year": 1973,
+                "president": null
+            }
+        ]
+    }
+]

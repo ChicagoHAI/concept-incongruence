@@ -1,0 +1,5502 @@
+[
+    {
+        "name": "Harry Potter",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Hermione Granger",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ron Weasley",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Albus Dumbledore",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Severus Snape",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Rubeus Hagrid",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Draco Malfoy",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Minerva McGonagall",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Luna Lovegood",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Neville Longbottom",
+        "source": "Harry Potter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Frodo Baggins",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Samwise Gamgee",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Aragorn",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Legolas",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gimli",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gandalf",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Boromir",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Galadriel",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Elrond",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Arwen",
+        "source": "The Lord of the Rings",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Aslan",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Peter Pevensie",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Susan Pevensie",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Edmund Pevensie",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Lucy Pevensie",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Prince Caspian",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Eustace Scrubb",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jill Pole",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mr. Tumnus",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jadis the White Witch",
+        "source": "The Chronicles of Narnia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Luke Skywalker",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Leia Organa",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Han Solo",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Darth Vader",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Obi-Wan Kenobi",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Yoda",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Chewbacca",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Palpatine",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Padm\u00e9 Amidala",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ahsoka Tano",
+        "source": "Star Wars",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "James T. Kirk",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Spock",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Leonard McCoy",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Nyota Uhura",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Montgomery Scott",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Hikaru Sulu",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jean-Luc Picard",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "William Riker",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Data",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Worf",
+        "source": "Star Trek",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tony Stark (Iron Man)",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Steve Rogers (Captain America)",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Thor Odinson",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Bruce Banner (Hulk)",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Natasha Romanoff (Black Widow)",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Clint Barton (Hawkeye)",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Peter Parker (Spider-Man)",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Wanda Maximoff (Scarlet Witch)",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Vision",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "T'Challa (Black Panther)",
+        "source": "Marvel Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Bruce Wayne (Batman)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Clark Kent (Superman)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Diana Prince (Wonder Woman)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Barry Allen (The Flash)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Hal Jordan (Green Lantern)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Arthur Curry (Aquaman)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Victor Stone (Cyborg)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Oliver Queen (Green Arrow)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "John Constantine",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Barbara Gordon (Batgirl)",
+        "source": "DC Universe",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jon Snow",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Daenerys Targaryen",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tyrion Lannister",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Cersei Lannister",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jaime Lannister",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Arya Stark",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sansa Stark",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Bran Stark",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jorah Mormont",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Theon Greyjoy",
+        "source": "Game of Thrones",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Geralt of Rivia",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Yennefer of Vengerberg",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ciri (Cirilla)",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Triss Merigold",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Dandelion (Jaskier)",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Vesemir",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Emhyr var Emreis",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Lambert",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Eskel",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Regis",
+        "source": "The Witcher",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Percy Jackson",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Annabeth Chase",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Grover Underwood",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Luke Castellan",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Clarisse La Rue",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Thalia Grace",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Nico di Angelo",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Bianca di Angelo",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tyson",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Zoe Nightshade",
+        "source": "Percy Jackson",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Katniss Everdeen",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Peeta Mellark",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gale Hawthorne",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Haymitch Abernathy",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Effie Trinket",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Primrose Everdeen",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "President Snow",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Finnick Odair",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Johanna Mason",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Cinna",
+        "source": "The Hunger Games",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Beatrice \"Tris\" Prior",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tobias \"Four\" Eaton",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Caleb Prior",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Christina",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Will",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Peter Hayes",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Eric",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jeanine Matthews",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tori Wu",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Marcus Eaton",
+        "source": "Divergent",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Thomas",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Teresa Agnes",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Newt",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Minho",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gally",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Frypan",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Chuck",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Aris Jones",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Brenda",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jorge",
+        "source": "Maze Runner",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Rand al'Thor",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mat Cauthon",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Perrin Aybara",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Egwene al'Vere",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Nynaeve al'Meara",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Moiraine Damodred",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Lan Mandragoran",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Elayne Trakand",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Aviendha",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Thom Merrilin",
+        "source": "The Wheel of Time",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kaladin",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Dalinar Kholin",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Shallan Davar",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Adolin Kholin",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Renarin Kholin",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Szeth-son-son-Vallano",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jasnah Kholin",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Navani Kholin",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Wit (Hoid)",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Eshonai",
+        "source": "The Stormlight Archive",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Vin",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kelsier",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Elend Venture",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sazed",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Breeze (Ladrian)",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ham",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Spook",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Marsh",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tindwyl",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Shan Elariel",
+        "source": "Mistborn",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Goku",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Vegeta",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Bulma",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gohan",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Piccolo",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Krillin",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Trunks",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Frieza",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Cell",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Majin Buu",
+        "source": "Dragon Ball",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Naruto Uzumaki",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sasuke Uchiha",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sakura Haruno",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kakashi Hatake",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Hinata Hyuga",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Shikamaru Nara",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gaara",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Itachi Uchiha",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jiraiya",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Orochimaru",
+        "source": "Naruto",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Monkey D. Luffy",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Roronoa Zoro",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Nami",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Usopp",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sanji",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tony Tony Chopper",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Nico Robin",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Franky",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Brook",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Portgas D. Ace",
+        "source": "One Piece",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Eren Yeager",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mikasa Ackerman",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Armin Arlert",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Levi Ackerman",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Erwin Smith",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Hange Zo\u00eb",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sasha Blouse",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jean Kirstein",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Historia Reiss",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Reiner Braun",
+        "source": "Attack on Titan",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ichigo Kurosaki",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Rukia Kuchiki",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Orihime Inoue",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Uryu Ishida",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Yasutora Sado (Chad)",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kisuke Urahara",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Yoruichi Shihouin",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Toshiro Hitsugaya",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Byakuya Kuchiki",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sosuke Aizen",
+        "source": "Bleach",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Izuku Midoriya (Deku)",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Katsuki Bakugo",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ochaco Uraraka",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tenya Iida",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Shoto Todoroki",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "All Might (Toshinori Yagi)",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Endeavor (Enji Todoroki)",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tomura Shigaraki",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tsuyu Asui",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Eijiro Kirishima",
+        "source": "My Hero Academia",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Edward Elric",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Alphonse Elric",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Winry Rockbell",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Roy Mustang",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Riza Hawkeye",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Maes Hughes",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Scar",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Lust",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Envy",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gluttony",
+        "source": "Fullmetal Alchemist",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Light Yagami",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "L (Lawliet)",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Misa Amane",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ryuk",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Near (Nate River)",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mello (Mihael Keehl)",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Soichiro Yagami",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Watari (Quillsh Wammy)",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Teru Mikami",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Rem",
+        "source": "Death Note",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tanjiro Kamado",
+        "source": "Demon Slayer",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Nezuko Kamado",
+        "source": "Demon Slayer",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Zenitsu Agatsuma",
+        "source": "Demon Slayer",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Inosuke Hashibira",
+        "source": "Demon Slayer",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kanao Tsuyuri",
+        "source": "Demon Slayer",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Giyu Tomioka",
+        "source": "Demon Slayer",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Shinobu Kocho",
+        "source": "Demon Slayer",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kyojuro Rengoku",
+        "source": "Demon Slayer",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tengen Uzui",
+        "source": "Demon Slayer",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Muzan Kibutsuji",
+        "source": "Demon Slayer",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Denji",
+        "source": "Chainsaw Man",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Makima",
+        "source": "Chainsaw Man",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Power",
+        "source": "Chainsaw Man",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Aki Hayakawa",
+        "source": "Chainsaw Man",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Himeno",
+        "source": "Chainsaw Man",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kobeni Higashiyama",
+        "source": "Chainsaw Man",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Hirofumi Yoshida",
+        "source": "Chainsaw Man",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Quanxi",
+        "source": "Chainsaw Man",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Reze",
+        "source": "Chainsaw Man",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Beam",
+        "source": "Chainsaw Man",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Yuji Itadori",
+        "source": "Jujutsu Kaisen",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Megumi Fushiguro",
+        "source": "Jujutsu Kaisen",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Nobara Kugisaki",
+        "source": "Jujutsu Kaisen",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Satoru Gojo",
+        "source": "Jujutsu Kaisen",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sukuna",
+        "source": "Jujutsu Kaisen",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Maki Zenin",
+        "source": "Jujutsu Kaisen",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Toge Inumaki",
+        "source": "Jujutsu Kaisen",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Panda",
+        "source": "Jujutsu Kaisen",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kento Nanami",
+        "source": "Jujutsu Kaisen",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mahito",
+        "source": "Jujutsu Kaisen",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Natsu Dragneel",
+        "source": "Fairy Tail",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Lucy Heartfilia",
+        "source": "Fairy Tail",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Happy",
+        "source": "Fairy Tail",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gray Fullbuster",
+        "source": "Fairy Tail",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Erza Scarlet",
+        "source": "Fairy Tail",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Wendy Marvell",
+        "source": "Fairy Tail",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Carla",
+        "source": "Fairy Tail",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gajeel Redfox",
+        "source": "Fairy Tail",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Juvia Lockser",
+        "source": "Fairy Tail",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mirajane Strauss",
+        "source": "Fairy Tail",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Inuyasha",
+        "source": "Inuyasha",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kagome Higurashi",
+        "source": "Inuyasha",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Miroku",
+        "source": "Inuyasha",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sango",
+        "source": "Inuyasha",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Shippo",
+        "source": "Inuyasha",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sesshomaru",
+        "source": "Inuyasha",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kikyo",
+        "source": "Inuyasha",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kohaku",
+        "source": "Inuyasha",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Rin",
+        "source": "Inuyasha",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Koga",
+        "source": "Inuyasha",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Usagi Tsukino (Sailor Moon)",
+        "source": "Sailor Moon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ami Mizuno (Sailor Mercury)",
+        "source": "Sailor Moon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Rei Hino (Sailor Mars)",
+        "source": "Sailor Moon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Makoto Kino (Sailor Jupiter)",
+        "source": "Sailor Moon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Minako Aino (Sailor Venus)",
+        "source": "Sailor Moon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mamoru Chiba (Tuxedo Mask)",
+        "source": "Sailor Moon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Setsuna Meiou (Sailor Pluto)",
+        "source": "Sailor Moon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Michiru Kaiou (Sailor Neptune)",
+        "source": "Sailor Moon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Haruka Tenou (Sailor Uranus)",
+        "source": "Sailor Moon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Hotaru Tomoe (Sailor Saturn)",
+        "source": "Sailor Moon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ash Ketchum",
+        "source": "Pokemon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Misty",
+        "source": "Pokemon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Brock",
+        "source": "Pokemon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jessie",
+        "source": "Pokemon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "James",
+        "source": "Pokemon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Meowth",
+        "source": "Pokemon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Pikachu",
+        "source": "Pokemon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Dawn",
+        "source": "Pokemon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "May",
+        "source": "Pokemon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Professor Oak",
+        "source": "Pokemon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tai Kamiya",
+        "source": "Digimon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Matt Ishida",
+        "source": "Digimon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sora Takenouchi",
+        "source": "Digimon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Izzy Izumi",
+        "source": "Digimon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mimi Tachikawa",
+        "source": "Digimon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Joe Kido",
+        "source": "Digimon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "T.K. Takaishi",
+        "source": "Digimon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kari Kamiya",
+        "source": "Digimon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Agumon",
+        "source": "Digimon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gatomon",
+        "source": "Digimon",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Marth",
+        "source": "Fire Emblem",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Chrom",
+        "source": "Fire Emblem",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Lucina",
+        "source": "Fire Emblem",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Robin",
+        "source": "Fire Emblem",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ike",
+        "source": "Fire Emblem",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Roy",
+        "source": "Fire Emblem",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Corrin",
+        "source": "Fire Emblem",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Byleth",
+        "source": "Fire Emblem",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Edelgard",
+        "source": "Fire Emblem",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Dimitri",
+        "source": "Fire Emblem",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Link",
+        "source": "The Legend of Zelda",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Princess Zelda",
+        "source": "The Legend of Zelda",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ganondorf",
+        "source": "The Legend of Zelda",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Impa",
+        "source": "The Legend of Zelda",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tingle",
+        "source": "The Legend of Zelda",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Midna",
+        "source": "The Legend of Zelda",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Darunia",
+        "source": "The Legend of Zelda",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ruto",
+        "source": "The Legend of Zelda",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Fi",
+        "source": "The Legend of Zelda",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Urbosa",
+        "source": "The Legend of Zelda",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mario",
+        "source": "Super Mario",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Luigi",
+        "source": "Super Mario",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Princess Peach",
+        "source": "Super Mario",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Bowser",
+        "source": "Super Mario",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Toad",
+        "source": "Super Mario",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Yoshi",
+        "source": "Super Mario",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Wario",
+        "source": "Super Mario",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Waluigi",
+        "source": "Super Mario",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Rosalina",
+        "source": "Super Mario",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Daisy",
+        "source": "Super Mario",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Cloud Strife",
+        "source": "Final Fantasy",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tifa Lockhart",
+        "source": "Final Fantasy",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Aerith Gainsborough",
+        "source": "Final Fantasy",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Barret Wallace",
+        "source": "Final Fantasy",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sephiroth",
+        "source": "Final Fantasy",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Squall Leonhart",
+        "source": "Final Fantasy",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Rinoa Heartilly",
+        "source": "Final Fantasy",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Zidane Tribal",
+        "source": "Final Fantasy",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Vivi Ornitier",
+        "source": "Final Fantasy",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tidus",
+        "source": "Final Fantasy",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sora",
+        "source": "Kingdom Hearts",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Riku",
+        "source": "Kingdom Hearts",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kairi",
+        "source": "Kingdom Hearts",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Roxas",
+        "source": "Kingdom Hearts",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Axel (Lea)",
+        "source": "Kingdom Hearts",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Xion",
+        "source": "Kingdom Hearts",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Terra",
+        "source": "Kingdom Hearts",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Aqua",
+        "source": "Kingdom Hearts",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ventus",
+        "source": "Kingdom Hearts",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Xehanort",
+        "source": "Kingdom Hearts",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Chris Redfield",
+        "source": "Resident Evil",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jill Valentine",
+        "source": "Resident Evil",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Leon S. Kennedy",
+        "source": "Resident Evil",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Claire Redfield",
+        "source": "Resident Evil",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Albert Wesker",
+        "source": "Resident Evil",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ada Wong",
+        "source": "Resident Evil",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Rebecca Chambers",
+        "source": "Resident Evil",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Hunk",
+        "source": "Resident Evil",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sherry Birkin",
+        "source": "Resident Evil",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ethan Winters",
+        "source": "Resident Evil",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Alta\u00efr Ibn-La'Ahad",
+        "source": "Assassin's Creed",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ezio Auditore",
+        "source": "Assassin's Creed",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Connor Kenway (Ratonhnhak\u00e9:ton)",
+        "source": "Assassin's Creed",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Edward Kenway",
+        "source": "Assassin's Creed",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Shay Cormac",
+        "source": "Assassin's Creed",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Arno Dorian",
+        "source": "Assassin's Creed",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Bayek of Siwa",
+        "source": "Assassin's Creed",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Aya (Amunet)",
+        "source": "Assassin's Creed",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kassandra",
+        "source": "Assassin's Creed",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Eivor Varinsdottir",
+        "source": "Assassin's Creed",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Thrall",
+        "source": "World of Warcraft",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jaina Proudmoore",
+        "source": "World of Warcraft",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sylvanas Windrunner",
+        "source": "World of Warcraft",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Anduin Wrynn",
+        "source": "World of Warcraft",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Varian Wrynn",
+        "source": "World of Warcraft",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tyrande Whisperwind",
+        "source": "World of Warcraft",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Malfurion Stormrage",
+        "source": "World of Warcraft",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Illidan Stormrage",
+        "source": "World of Warcraft",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Arthas Menethil (The Lich King)",
+        "source": "World of Warcraft",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Vol'jin",
+        "source": "World of Warcraft",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Deckard Cain",
+        "source": "Diablo",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tyrael",
+        "source": "Diablo",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Diablo",
+        "source": "Diablo",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Baal",
+        "source": "Diablo",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Malthael",
+        "source": "Diablo",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Imperius",
+        "source": "Diablo",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Leah",
+        "source": "Diablo",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Adria",
+        "source": "Diablo",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Zoltun Kulle",
+        "source": "Diablo",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mephisto",
+        "source": "Diablo",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tracer (Lena Oxton)",
+        "source": "Overwatch",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Winston",
+        "source": "Overwatch",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Reaper (Gabriel Reyes)",
+        "source": "Overwatch",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Soldier: 76 (Jack Morrison)",
+        "source": "Overwatch",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mercy (Angela Ziegler)",
+        "source": "Overwatch",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Genji Shimada",
+        "source": "Overwatch",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Hanzo Shimada",
+        "source": "Overwatch",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "D.Va (Hana Song)",
+        "source": "Overwatch",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Reinhardt Wilhelm",
+        "source": "Overwatch",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Zarya (Aleksandra Zaryanova)",
+        "source": "Overwatch",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ahri",
+        "source": "League of Legends",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Garen",
+        "source": "League of Legends",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Lux",
+        "source": "League of Legends",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Darius",
+        "source": "League of Legends",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Katarina",
+        "source": "League of Legends",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ashe",
+        "source": "League of Legends",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Miss Fortune",
+        "source": "League of Legends",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Yasuo",
+        "source": "League of Legends",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Thresh",
+        "source": "League of Legends",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jinx",
+        "source": "League of Legends",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Invoker",
+        "source": "Dota 2",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Crystal Maiden",
+        "source": "Dota 2",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Lina",
+        "source": "Dota 2",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Juggernaut",
+        "source": "Dota 2",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Axe",
+        "source": "Dota 2",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Phantom Assassin",
+        "source": "Dota 2",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Pudge",
+        "source": "Dota 2",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Drow Ranger",
+        "source": "Dota 2",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sven",
+        "source": "Dota 2",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Windranger",
+        "source": "Dota 2",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Solid Snake",
+        "source": "Metal Gear",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Big Boss (Naked Snake)",
+        "source": "Metal Gear",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Revolver Ocelot",
+        "source": "Metal Gear",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Gray Fox",
+        "source": "Metal Gear",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Otacon (Hal Emmerich)",
+        "source": "Metal Gear",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Meryl Silverburgh",
+        "source": "Metal Gear",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Raiden (Jack)",
+        "source": "Metal Gear",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "The Boss",
+        "source": "Metal Gear",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sniper Wolf",
+        "source": "Metal Gear",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Psycho Mantis",
+        "source": "Metal Gear",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ryu",
+        "source": "Street Fighter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Ken Masters",
+        "source": "Street Fighter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Chun-Li",
+        "source": "Street Fighter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Guile",
+        "source": "Street Fighter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "M. Bison",
+        "source": "Street Fighter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Cammy White",
+        "source": "Street Fighter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sagat",
+        "source": "Street Fighter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Vega",
+        "source": "Street Fighter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Blanka",
+        "source": "Street Fighter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "E. Honda",
+        "source": "Street Fighter",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Liu Kang",
+        "source": "Mortal Kombat",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Scorpion (Hanzo Hasashi)",
+        "source": "Mortal Kombat",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sub-Zero (Kuai Liang)",
+        "source": "Mortal Kombat",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Raiden",
+        "source": "Mortal Kombat",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sonya Blade",
+        "source": "Mortal Kombat",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Johnny Cage",
+        "source": "Mortal Kombat",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Kitana",
+        "source": "Mortal Kombat",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mileena",
+        "source": "Mortal Kombat",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Shao Kahn",
+        "source": "Mortal Kombat",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Goro",
+        "source": "Mortal Kombat",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Roland Deschain",
+        "source": "The Dark Tower",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Eddie Dean",
+        "source": "The Dark Tower",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Susannah Dean",
+        "source": "The Dark Tower",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Jake Chambers",
+        "source": "The Dark Tower",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Oy",
+        "source": "The Dark Tower",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "The Man in Black (Walter O'Dim)",
+        "source": "The Dark Tower",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Father Callahan",
+        "source": "The Dark Tower",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mordred Deschain",
+        "source": "The Dark Tower",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sheemie Ruiz",
+        "source": "The Dark Tower",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Crimson King",
+        "source": "The Dark Tower",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Rincewind",
+        "source": "Discworld",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Granny Weatherwax",
+        "source": "Discworld",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Nanny Ogg",
+        "source": "Discworld",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sam Vimes",
+        "source": "Discworld",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Carrot Ironfoundersson",
+        "source": "Discworld",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Lord Vetinari",
+        "source": "Discworld",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tiffany Aching",
+        "source": "Discworld",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Death",
+        "source": "Discworld",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Susan Sto Helit",
+        "source": "Discworld",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Moist von Lipwig",
+        "source": "Discworld",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Sherlock Holmes",
+        "source": "Sherlock Holmes",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Dr. John Watson",
+        "source": "Sherlock Holmes",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mrs. Hudson",
+        "source": "Sherlock Holmes",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Inspector Lestrade",
+        "source": "Sherlock Holmes",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mycroft Holmes",
+        "source": "Sherlock Holmes",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Professor Moriarty",
+        "source": "Sherlock Holmes",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Irene Adler",
+        "source": "Sherlock Holmes",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Mary Morstan",
+        "source": "Sherlock Holmes",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tobias Gregson",
+        "source": "Sherlock Holmes",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Stamford",
+        "source": "Sherlock Holmes",
+        "label": 1,
+        "isDead": 0
+    },
+    {
+        "name": "Tom Hanks",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Brad Pitt",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Leonardo DiCaprio",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Robert Downey Jr.",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Will Smith",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Johnny Depp",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "George Clooney",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Denzel Washington",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Matt Damon",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ben Affleck",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Chris Hemsworth",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Chris Evans",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ryan Reynolds",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Hugh Jackman",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Bradley Cooper",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Michael B. Jordan",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Tom Cruise",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Adam Sandler",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Keanu Reeves",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Mark Wahlberg",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jake Gyllenhaal",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Christian Bale",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Joaquin Phoenix",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jared Leto",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Channing Tatum",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Colin Farrell",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Vin Diesel",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Orlando Bloom",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Tobey Maguire",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Andrew Garfield",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Eddie Redmayne",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Timoth\u00e9e Chalamet",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Paul Rudd",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jason Momoa",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Chris Pine",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Dave Bautista",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Zachary Levi",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Sylvester Stallone",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Arnold Schwarzenegger",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Harrison Ford",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Tom Hardy",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ryan Gosling",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Joseph Gordon-Levitt",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Michael Fassbender",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Taron Egerton",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Mahershala Ali",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Daniel Kaluuya",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "John Boyega",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Pedro Pascal",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Henry Cavill",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Meryl Streep",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Julia Roberts",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Scarlett Johansson",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jennifer Lawrence",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Natalie Portman",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Nicole Kidman",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Charlize Theron",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Sandra Bullock",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Anne Hathaway",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Emma Stone",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Emma Watson",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kate Winslet",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Cate Blanchett",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Angelina Jolie",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Amy Adams",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Reese Witherspoon",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Mila Kunis",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jessica Chastain",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Halle Berry",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Lupita Nyong'o",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jodie Foster",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Keira Knightley",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Emily Blunt",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Saoirse Ronan",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Margot Robbie",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Gal Gadot",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Zendaya",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Karen Gillan",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Tessa Thompson",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Brie Larson",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Salma Hayek",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Eva Green",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Marion Cotillard",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Pen\u00e9lope Cruz",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Zoe Saldana",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Gwyneth Paltrow",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Naomi Watts",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Rachel McAdams",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Cameron Diaz",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Amy Poehler",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Tina Fey",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Drew Barrymore",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Sigourney Weaver",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Winona Ryder",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Helena Bonham Carter",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Michelle Pfeiffer",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Hilary Swank",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Octavia Spencer",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Viola Davis",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kristen Bell",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Elton John",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Paul McCartney",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Mick Jagger",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Bruce Springsteen",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Stevie Wonder",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Lionel Richie",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Billy Joel",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Bob Dylan",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ed Sheeran",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Shawn Mendes",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Justin Bieber",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Harry Styles",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Sam Smith",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Adam Levine",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Bruno Mars",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "The Weeknd (Abel Tesfaye)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "John Legend",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Drake (Aubrey Graham)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Post Malone",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Eminem (Marshall Mathers)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jay-Z (Shawn Carter)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kanye West (Ye)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Lil Wayne (Dwayne Carter)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kendrick Lamar",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Travis Scott (Jacques Webster II)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Snoop Dogg (Calvin Broadus)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Pharrell Williams",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Justin Timberlake",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Chris Brown",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Michael Bubl\u00e9",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Andrea Bocelli",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Luis Fonsi",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ricky Martin",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Marc Anthony",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ozuna (Juan Ozuna Rosado)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Maluma (Juan Londo\u00f1o)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Bad Bunny (Benito Martinez)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "J Balvin (Jos\u00e9 Balvin)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Daddy Yankee (Ram\u00f3n Ayala)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Wizkid (Ayodeji Balogun)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Burna Boy (Damini Ogulu)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Tyga (Micheal Stevenson)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "50 Cent (Curtis Jackson)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Chris Stapleton",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Tim McGraw",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Blake Shelton",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "George Strait",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Luke Bryan",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Keith Urban",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kane Brown",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Madonna (Madonna Ciccone)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Mariah Carey",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Celine Dion",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Whitney Houston",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Janet Jackson",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Beyonc\u00e9 Knowles",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Rihanna (Robyn Fenty)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Taylor Swift",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ariana Grande",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Selena Gomez",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Demi Lovato",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Miley Cyrus",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Lady Gaga (Stefani Germanotta)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Shakira (Shakira Mebarak)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jennifer Lopez",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Christina Aguilera",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Billie Eilish",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Dua Lipa",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Camila Cabello",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Olivia Rodrigo",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Lana Del Rey",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Nicki Minaj (Onika Maraj)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Cardi B (Belcalis Almanzar)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Megan Thee Stallion (Megan Pete)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Doja Cat (Amala Dlamini)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Gwen Stefani",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Fergie (Stacy Ferguson)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kesha (Kesha Sebert)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Avril Lavigne",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Alicia Keys",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Lorde (Ella Yelich-O'Connor)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Sia (Sia Furler)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Adele (Adele Adkins)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Zara Larsson",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ellie Goulding",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kelly Clarkson",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Leona Lewis",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Dolly Parton",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Faith Hill",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Carrie Underwood",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Alanis Morissette",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Toni Braxton",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Mary J. Blige",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ashanti (Ashanti Douglas)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ciara (Ciara Harris)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Bebe Rexha",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Tori Kelly",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Becky G (Rebbeca Gomez)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Rita Ora",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Iggy Azalea (Amethyst Kelly)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Michael Jordan",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "LeBron James",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kobe Bryant",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Shaquille O'Neal",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Stephen Curry",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kevin Durant",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Cristiano Ronaldo",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Lionel Messi",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Neymar",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kylian Mbapp\u00e9",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Zinedine Zidane",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "David Beckham",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ronaldinho",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Pel\u00e9 (Edson Arantes)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Diego Maradona",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Roger Federer",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Rafael Nadal",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Novak Djokovic",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Andy Murray",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Tiger Woods",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Phil Mickelson",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Rory McIlroy",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Tom Brady",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Peyton Manning",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Joe Montana",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Aaron Rodgers",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Patrick Mahomes",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Mike Tyson",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Muhammad Ali",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Floyd Mayweather Jr.",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Manny Pacquiao",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Conor McGregor",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Usain Bolt",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Michael Phelps",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Lance Armstrong",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Bubba Watson",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Wayne Gretzky",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Sidney Crosby",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Alex Ovechkin",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "David Ortiz",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Derek Jeter",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ichiro Suzuki",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Manny Ramirez",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Shohei Ohtani",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Bryce Harper",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Yao Ming",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Dirk Nowitzki",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Giannis Antetokounmpo",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "James Harden",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Tim Duncan",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Serena Williams",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Venus Williams",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Maria Sharapova",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Naomi Osaka",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Simone Biles",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Aly Raisman",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Katie Ledecky",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Lindsey Vonn",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Mikaela Shiffrin",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ronda Rousey",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Holly Holm",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Amanda Nunes",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Danica Patrick",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Michelle Wie",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Annika S\u00f6renstam",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Paige Spiranac",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Alex Morgan",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Megan Rapinoe",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Carli Lloyd",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Marta (Marta Vieira da Silva)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Mia Hamm",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Hope Solo",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Christine Sinclair",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Abby Wambach",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Steffi Graf",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Billie Jean King",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Martina Navratilova",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Chris Evert",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Simone Manuel",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Gabby Douglas",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Cheryl Miller",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Sue Bird",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Diana Taurasi",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Candace Parker",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Becky Lynch (Rebecca Quinn)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Charlotte Flair (Ashley Fliehr)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Sasha Banks (Mercedes Varnado)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Bayley (Pamela Martinez)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Becky Hammon",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Misty May-Treanor",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kerri Walsh Jennings",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Oksana Chusovitina",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Alina Zagitova",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Evgenia Medvedeva",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Mary Kom",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "PV Sindhu",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Saina Nehwal",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Sania Mirza",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Simona Halep",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ashleigh Barty",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Barack Obama",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Donald Trump",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Joe Biden",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Bill Clinton",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "George W. Bush",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Hillary Clinton",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kamala Harris",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Mike Pence",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Bernie Sanders",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Elizabeth Warren",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Nancy Pelosi",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Mitt Romney",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "John Kerry",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Al Gore",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Justin Trudeau",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Angela Merkel",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Emmanuel Macron",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Boris Johnson",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Tony Blair",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "David Cameron",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Theresa May",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Nicolas Sarkozy",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Vladimir Putin",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Volodymyr Zelensky",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Xi Jinping",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Shinzo Abe",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Narendra Modi",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Imran Khan",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jair Bolsonaro",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Dilma Rousseff",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Lula da Silva",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Evo Morales",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Pope Francis",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "King Charles III",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jacinda Ardern",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Scott Morrison",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Malcolm Turnbull",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Recep Tayyip Erdo\u011fan",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Benjamin Netanyahu",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ehud Barak",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Golda Meir",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jimmy Carter",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Mikhail Gorbachev",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Fidel Castro",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Fran\u00e7ois Hollande",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Pedro S\u00e1nchez",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Giuseppe Conte",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Silvio Berlusconi",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Viktor Orb\u00e1n",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Nicol\u00e1s Maduro",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Stephen King",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "J.K. Rowling",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "George R.R. Martin",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "J.R.R. Tolkien",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Agatha Christie",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Dan Brown",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "John Grisham",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "James Patterson",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Nicholas Sparks",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Margaret Atwood",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Haruki Murakami",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Salman Rushdie",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Paulo Coelho",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Neil Gaiman",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Brandon Sanderson",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Suzanne Collins",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Veronica Roth",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Rick Riordan",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "E L James",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Michael Crichton",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Tom Clancy",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Cormac McCarthy",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Diana Gabaldon",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Tayari Jones",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Colleen Hoover",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Gillian Flynn",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Stephenie Meyer",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Cassandra Clare",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Terry Pratchett",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Arthur Conan Doyle",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Nora Roberts",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Michael Connelly",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Fredrik Backman",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "John Green",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Markus Zusak",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Celeste Ng",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ken Follett",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Khaled Hosseini",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Chimamanda Ngozi Adichie",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Toni Morrison",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jonathan Franzen",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Zadie Smith",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Alice Walker",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Amy Tan",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Muriel Barbery",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Elena Ferrante",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Donna Tartt",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Lisa See",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "V.E. Schwab",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Erin Morgenstern",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Steven Spielberg",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Martin Scorsese",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Quentin Tarantino",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Christopher Nolan",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ridley Scott",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "James Cameron",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Peter Jackson",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Tim Burton",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Clint Eastwood",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ron Howard",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "J.J. Abrams",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Zack Snyder",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Michael Bay",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "David Fincher",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Guillermo del Toro",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Wes Anderson",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kathryn Bigelow",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Sofia Coppola",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Francis Ford Coppola",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Woody Allen",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Spike Lee",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Bong Joon-ho",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ang Lee",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Park Chan-wook",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "George Lucas",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jon Favreau",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Greta Gerwig",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "James Wan",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "M. Night Shyamalan",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kevin Feige",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Joe Russo",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Anthony Russo",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Bryan Singer",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Brett Ratner",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Steve McQueen (director)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jordan Peele",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Judd Apatow",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Taika Waititi",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kenneth Branagh",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Baz Luhrmann",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Peter Farrelly",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Robert Zemeckis",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Guy Ritchie",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Patty Jenkins",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Luc Besson",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "John Woo",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Rian Johnson",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Damien Chazelle",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Drew Goddard",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Cary Joji Fukunaga",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Oprah Winfrey",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ellen DeGeneres",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jimmy Fallon",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jimmy Kimmel",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Stephen Colbert",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "James Corden",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Trevor Noah",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Conan O'Brien",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Seth Meyers",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jay Leno",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "David Letterman",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Howard Stern",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Ryan Seacrest",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Anderson Cooper",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Dr. Phil McGraw",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Wendy Williams",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Piers Morgan",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Simon Cowell",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Gordon Ramsay",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jamie Oliver",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Martha Stewart",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kylie Jenner",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kim Kardashian",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Khlo\u00e9 Kardashian",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kourtney Kardashian",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kendall Jenner",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Kris Jenner",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Paris Hilton",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Nicole Richie",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Travis Barker",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "DJ Khaled",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Pitbull (Armando Perez)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Logan Paul",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jake Paul",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "MrBeast (Jimmy Donaldson)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "PewDiePie (Felix Kjellberg)",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Emma Chamberlain",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Addison Rae",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Charli D'Amelio",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Dixie D'Amelio",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "JoJo Siwa",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Tyler Perry",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Bill Gates",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Elon Musk",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jeff Bezos",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Mark Zuckerberg",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Tim Cook",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Sundar Pichai",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Jack Ma",
+        "label": 0,
+        "isDead": 0
+    },
+    {
+        "name": "Warren Buffett",
+        "label": 0,
+        "isDead": 0
+    }
+]
